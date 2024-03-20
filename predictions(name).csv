@@ -1,0 +1,2347 @@
+team_a,team_a_name,team_b,team_b_name,is_team_a_win
+1345,Purdue,1345,Purdue,1
+1345,Purdue,1266,Marquette,1
+1345,Purdue,1243,Kansas St,1
+1397,Tennessee,1345,Purdue,1
+1345,Purdue,1181,Duke,1
+1345,Purdue,1246,Kentucky,1
+1345,Purdue,1277,Michigan St,1
+1345,Purdue,1272,Memphis,1
+1345,Purdue,1194,FL Atlantic,1
+1425,USC,1345,Purdue,0
+1345,Purdue,1344,Providence,1
+1345,Purdue,1331,Oral Roberts,1
+1418,Louisiana,1345,Purdue,0
+1345,Purdue,1286,Montana St,1
+1436,Vermont,1345,Purdue,0
+1345,Purdue,1192,F Dickinson,1
+1411,TX Southern,1345,Purdue,0
+1345,Purdue,1104,Alabama,1
+1345,Purdue,1112,Arizona,1
+1345,Purdue,1124,Baylor,1
+1438,Virginia,1345,Purdue,0
+1361,San Diego St,1345,Purdue,1
+1345,Purdue,1166,Creighton,1
+1345,Purdue,1281,Missouri,1
+1345,Purdue,1268,Maryland,1
+1452,West Virginia,1345,Purdue,1
+1429,Utah St,1345,Purdue,0
+1345,Purdue,1301,NC State,1
+1345,Purdue,1158,Col Charleston,1
+1345,Purdue,1202,Furman,1
+1364,UC Santa Barbara,1345,Purdue,0
+1345,Purdue,1343,Princeton,1
+1369,SE Missouri St,1345,Purdue,0
+1394,TAM C. Christi,1345,Purdue,0
+1345,Purdue,1222,Houston,1
+1400,Texas,1345,Purdue,1
+1462,Xavier,1345,Purdue,1
+1345,Purdue,1231,Indiana,1
+1345,Purdue,1274,Miami FL,1
+1345,Purdue,1235,Iowa St,1
+1401,Texas A&M,1345,Purdue,1
+1345,Purdue,1234,Iowa,1
+1345,Purdue,1120,Auburn,1
+1345,Purdue,1336,Penn St,1
+1345,Purdue,1280,Mississippi St,1
+1345,Purdue,1338,Pittsburgh,1
+1345,Purdue,1179,Drake,1
+1345,Purdue,1245,Kent,1
+1345,Purdue,1244,Kennesaw,1
+1345,Purdue,1159,Colgate,1
+1345,Purdue,1297,N Kentucky,1
+1345,Purdue,1242,Kansas,1
+1417,UCLA,1345,Purdue,1
+1345,Purdue,1211,Gonzaga,1
+1345,Purdue,1163,Connecticut,1
+1388,St Mary's CA,1345,Purdue,1
+1395,TCU,1345,Purdue,1
+1345,Purdue,1321,Northwestern,1
+1345,Purdue,1116,Arkansas,1
+1345,Purdue,1228,Illinois,1
+1345,Purdue,1129,Boise St,1
+1345,Purdue,1113,Arizona St,1
+1345,Purdue,1305,Nevada,1
+1433,VCU,1345,Purdue,1
+1345,Purdue,1233,Iona,1
+1345,Purdue,1213,Grand Canyon,1
+1421,UNC Asheville,1345,Purdue,1
+1345,Purdue,1224,Howard,1
+1266,Marquette,1266,Marquette,1
+1266,Marquette,1243,Kansas St,1
+1397,Tennessee,1266,Marquette,0
+1266,Marquette,1181,Duke,1
+1266,Marquette,1246,Kentucky,1
+1277,Michigan St,1266,Marquette,0
+1272,Memphis,1266,Marquette,0
+1266,Marquette,1194,FL Atlantic,1
+1425,USC,1266,Marquette,0
+1344,Providence,1266,Marquette,0
+1331,Oral Roberts,1266,Marquette,0
+1418,Louisiana,1266,Marquette,0
+1286,Montana St,1266,Marquette,0
+1436,Vermont,1266,Marquette,0
+1266,Marquette,1192,F Dickinson,1
+1411,TX Southern,1266,Marquette,0
+1266,Marquette,1104,Alabama,0
+1266,Marquette,1112,Arizona,1
+1266,Marquette,1124,Baylor,0
+1438,Virginia,1266,Marquette,0
+1361,San Diego St,1266,Marquette,0
+1266,Marquette,1166,Creighton,1
+1281,Missouri,1266,Marquette,0
+1268,Maryland,1266,Marquette,0
+1452,West Virginia,1266,Marquette,0
+1429,Utah St,1266,Marquette,0
+1301,NC State,1266,Marquette,0
+1266,Marquette,1158,Col Charleston,1
+1266,Marquette,1202,Furman,1
+1364,UC Santa Barbara,1266,Marquette,1
+1343,Princeton,1266,Marquette,0
+1369,SE Missouri St,1266,Marquette,0
+1394,TAM C. Christi,1266,Marquette,0
+1266,Marquette,1222,Houston,1
+1400,Texas,1266,Marquette,1
+1462,Xavier,1266,Marquette,1
+1266,Marquette,1231,Indiana,1
+1274,Miami FL,1266,Marquette,1
+1266,Marquette,1235,Iowa St,0
+1401,Texas A&M,1266,Marquette,0
+1266,Marquette,1234,Iowa,1
+1266,Marquette,1120,Auburn,1
+1336,Penn St,1266,Marquette,0
+1280,Mississippi St,1266,Marquette,0
+1338,Pittsburgh,1266,Marquette,0
+1266,Marquette,1179,Drake,1
+1266,Marquette,1245,Kent,0
+1266,Marquette,1244,Kennesaw,1
+1266,Marquette,1159,Colgate,1
+1297,N Kentucky,1266,Marquette,0
+1266,Marquette,1242,Kansas,1
+1417,UCLA,1266,Marquette,1
+1266,Marquette,1211,Gonzaga,1
+1266,Marquette,1163,Connecticut,1
+1388,St Mary's CA,1266,Marquette,0
+1395,TCU,1266,Marquette,0
+1321,Northwestern,1266,Marquette,0
+1266,Marquette,1116,Arkansas,1
+1266,Marquette,1228,Illinois,1
+1266,Marquette,1129,Boise St,1
+1266,Marquette,1113,Arizona St,1
+1305,Nevada,1266,Marquette,0
+1433,VCU,1266,Marquette,0
+1266,Marquette,1233,Iona,1
+1266,Marquette,1213,Grand Canyon,1
+1421,UNC Asheville,1266,Marquette,1
+1266,Marquette,1224,Howard,1
+1243,Kansas St,1243,Kansas St,1
+1397,Tennessee,1243,Kansas St,1
+1243,Kansas St,1181,Duke,1
+1246,Kentucky,1243,Kansas St,1
+1277,Michigan St,1243,Kansas St,1
+1272,Memphis,1243,Kansas St,1
+1243,Kansas St,1194,FL Atlantic,1
+1425,USC,1243,Kansas St,0
+1344,Providence,1243,Kansas St,0
+1331,Oral Roberts,1243,Kansas St,0
+1418,Louisiana,1243,Kansas St,0
+1286,Montana St,1243,Kansas St,0
+1436,Vermont,1243,Kansas St,0
+1243,Kansas St,1192,F Dickinson,1
+1411,TX Southern,1243,Kansas St,0
+1243,Kansas St,1104,Alabama,1
+1243,Kansas St,1112,Arizona,1
+1243,Kansas St,1124,Baylor,1
+1438,Virginia,1243,Kansas St,0
+1361,San Diego St,1243,Kansas St,0
+1243,Kansas St,1166,Creighton,1
+1281,Missouri,1243,Kansas St,0
+1268,Maryland,1243,Kansas St,1
+1452,West Virginia,1243,Kansas St,1
+1429,Utah St,1243,Kansas St,0
+1301,NC State,1243,Kansas St,0
+1243,Kansas St,1158,Col Charleston,1
+1243,Kansas St,1202,Furman,1
+1364,UC Santa Barbara,1243,Kansas St,1
+1343,Princeton,1243,Kansas St,0
+1369,SE Missouri St,1243,Kansas St,0
+1394,TAM C. Christi,1243,Kansas St,0
+1243,Kansas St,1222,Houston,1
+1400,Texas,1243,Kansas St,1
+1462,Xavier,1243,Kansas St,1
+1243,Kansas St,1231,Indiana,1
+1274,Miami FL,1243,Kansas St,1
+1243,Kansas St,1235,Iowa St,1
+1401,Texas A&M,1243,Kansas St,1
+1243,Kansas St,1234,Iowa,1
+1243,Kansas St,1120,Auburn,1
+1336,Penn St,1243,Kansas St,0
+1280,Mississippi St,1243,Kansas St,0
+1338,Pittsburgh,1243,Kansas St,0
+1243,Kansas St,1179,Drake,1
+1245,Kent,1243,Kansas St,0
+1244,Kennesaw,1243,Kansas St,0
+1243,Kansas St,1159,Colgate,1
+1297,N Kentucky,1243,Kansas St,0
+1243,Kansas St,1242,Kansas,1
+1417,UCLA,1243,Kansas St,1
+1243,Kansas St,1211,Gonzaga,1
+1243,Kansas St,1163,Connecticut,1
+1388,St Mary's CA,1243,Kansas St,1
+1395,TCU,1243,Kansas St,1
+1321,Northwestern,1243,Kansas St,1
+1243,Kansas St,1116,Arkansas,1
+1243,Kansas St,1228,Illinois,1
+1243,Kansas St,1129,Boise St,1
+1243,Kansas St,1113,Arizona St,1
+1305,Nevada,1243,Kansas St,0
+1433,VCU,1243,Kansas St,0
+1243,Kansas St,1233,Iona,1
+1243,Kansas St,1213,Grand Canyon,1
+1421,UNC Asheville,1243,Kansas St,1
+1243,Kansas St,1224,Howard,1
+1397,Tennessee,1397,Tennessee,1
+1397,Tennessee,1181,Duke,0
+1397,Tennessee,1246,Kentucky,1
+1397,Tennessee,1277,Michigan St,1
+1397,Tennessee,1272,Memphis,1
+1397,Tennessee,1194,FL Atlantic,1
+1425,USC,1397,Tennessee,0
+1397,Tennessee,1344,Providence,0
+1397,Tennessee,1331,Oral Roberts,1
+1418,Louisiana,1397,Tennessee,0
+1397,Tennessee,1286,Montana St,1
+1436,Vermont,1397,Tennessee,0
+1397,Tennessee,1192,F Dickinson,1
+1411,TX Southern,1397,Tennessee,0
+1397,Tennessee,1104,Alabama,0
+1397,Tennessee,1112,Arizona,0
+1397,Tennessee,1124,Baylor,0
+1438,Virginia,1397,Tennessee,0
+1397,Tennessee,1361,San Diego St,1
+1397,Tennessee,1166,Creighton,1
+1397,Tennessee,1281,Missouri,1
+1397,Tennessee,1268,Maryland,0
+1452,West Virginia,1397,Tennessee,1
+1429,Utah St,1397,Tennessee,0
+1397,Tennessee,1301,NC State,1
+1397,Tennessee,1158,Col Charleston,1
+1397,Tennessee,1202,Furman,1
+1397,Tennessee,1364,UC Santa Barbara,1
+1397,Tennessee,1343,Princeton,1
+1397,Tennessee,1369,SE Missouri St,1
+1397,Tennessee,1394,TAM C. Christi,1
+1397,Tennessee,1222,Houston,1
+1400,Texas,1397,Tennessee,1
+1462,Xavier,1397,Tennessee,1
+1397,Tennessee,1231,Indiana,1
+1397,Tennessee,1274,Miami FL,1
+1397,Tennessee,1235,Iowa St,0
+1401,Texas A&M,1397,Tennessee,1
+1397,Tennessee,1234,Iowa,1
+1397,Tennessee,1120,Auburn,1
+1397,Tennessee,1336,Penn St,1
+1397,Tennessee,1280,Mississippi St,1
+1397,Tennessee,1338,Pittsburgh,1
+1397,Tennessee,1179,Drake,1
+1397,Tennessee,1245,Kent,0
+1397,Tennessee,1244,Kennesaw,1
+1397,Tennessee,1159,Colgate,1
+1397,Tennessee,1297,N Kentucky,1
+1397,Tennessee,1242,Kansas,0
+1417,UCLA,1397,Tennessee,1
+1397,Tennessee,1211,Gonzaga,1
+1397,Tennessee,1163,Connecticut,0
+1397,Tennessee,1388,St Mary's CA,0
+1397,Tennessee,1395,TCU,0
+1397,Tennessee,1321,Northwestern,1
+1397,Tennessee,1116,Arkansas,1
+1397,Tennessee,1228,Illinois,1
+1397,Tennessee,1129,Boise St,1
+1397,Tennessee,1113,Arizona St,1
+1397,Tennessee,1305,Nevada,0
+1433,VCU,1397,Tennessee,0
+1397,Tennessee,1233,Iona,1
+1397,Tennessee,1213,Grand Canyon,1
+1421,UNC Asheville,1397,Tennessee,0
+1397,Tennessee,1224,Howard,1
+1181,Duke,1181,Duke,1
+1246,Kentucky,1181,Duke,1
+1277,Michigan St,1181,Duke,0
+1272,Memphis,1181,Duke,0
+1194,FL Atlantic,1181,Duke,0
+1425,USC,1181,Duke,0
+1344,Providence,1181,Duke,0
+1331,Oral Roberts,1181,Duke,0
+1418,Louisiana,1181,Duke,0
+1286,Montana St,1181,Duke,0
+1436,Vermont,1181,Duke,0
+1192,F Dickinson,1181,Duke,0
+1411,TX Southern,1181,Duke,0
+1181,Duke,1104,Alabama,0
+1181,Duke,1112,Arizona,1
+1181,Duke,1124,Baylor,0
+1438,Virginia,1181,Duke,0
+1361,San Diego St,1181,Duke,0
+1181,Duke,1166,Creighton,1
+1281,Missouri,1181,Duke,0
+1268,Maryland,1181,Duke,0
+1452,West Virginia,1181,Duke,1
+1429,Utah St,1181,Duke,0
+1301,NC State,1181,Duke,0
+1181,Duke,1158,Col Charleston,1
+1202,Furman,1181,Duke,0
+1364,UC Santa Barbara,1181,Duke,0
+1343,Princeton,1181,Duke,0
+1369,SE Missouri St,1181,Duke,0
+1394,TAM C. Christi,1181,Duke,0
+1222,Houston,1181,Duke,1
+1400,Texas,1181,Duke,1
+1462,Xavier,1181,Duke,1
+1231,Indiana,1181,Duke,0
+1274,Miami FL,1181,Duke,1
+1235,Iowa St,1181,Duke,0
+1401,Texas A&M,1181,Duke,1
+1234,Iowa,1181,Duke,0
+1181,Duke,1120,Auburn,1
+1336,Penn St,1181,Duke,0
+1280,Mississippi St,1181,Duke,0
+1338,Pittsburgh,1181,Duke,0
+1181,Duke,1179,Drake,1
+1245,Kent,1181,Duke,0
+1244,Kennesaw,1181,Duke,0
+1181,Duke,1159,Colgate,1
+1297,N Kentucky,1181,Duke,0
+1242,Kansas,1181,Duke,1
+1417,UCLA,1181,Duke,1
+1211,Gonzaga,1181,Duke,0
+1181,Duke,1163,Connecticut,1
+1388,St Mary's CA,1181,Duke,0
+1395,TCU,1181,Duke,0
+1321,Northwestern,1181,Duke,0
+1181,Duke,1116,Arkansas,1
+1228,Illinois,1181,Duke,0
+1181,Duke,1129,Boise St,1
+1181,Duke,1113,Arizona St,1
+1305,Nevada,1181,Duke,0
+1433,VCU,1181,Duke,0
+1233,Iona,1181,Duke,0
+1213,Grand Canyon,1181,Duke,0
+1421,UNC Asheville,1181,Duke,0
+1224,Howard,1181,Duke,0
+1246,Kentucky,1246,Kentucky,1
+1277,Michigan St,1246,Kentucky,0
+1272,Memphis,1246,Kentucky,0
+1246,Kentucky,1194,FL Atlantic,1
+1425,USC,1246,Kentucky,0
+1344,Providence,1246,Kentucky,0
+1331,Oral Roberts,1246,Kentucky,0
+1418,Louisiana,1246,Kentucky,0
+1286,Montana St,1246,Kentucky,0
+1436,Vermont,1246,Kentucky,0
+1246,Kentucky,1192,F Dickinson,1
+1411,TX Southern,1246,Kentucky,0
+1246,Kentucky,1104,Alabama,0
+1246,Kentucky,1112,Arizona,0
+1246,Kentucky,1124,Baylor,0
+1438,Virginia,1246,Kentucky,0
+1361,San Diego St,1246,Kentucky,0
+1246,Kentucky,1166,Creighton,1
+1281,Missouri,1246,Kentucky,0
+1268,Maryland,1246,Kentucky,1
+1452,West Virginia,1246,Kentucky,1
+1429,Utah St,1246,Kentucky,0
+1301,NC State,1246,Kentucky,1
+1246,Kentucky,1158,Col Charleston,1
+1246,Kentucky,1202,Furman,1
+1364,UC Santa Barbara,1246,Kentucky,0
+1343,Princeton,1246,Kentucky,0
+1369,SE Missouri St,1246,Kentucky,0
+1394,TAM C. Christi,1246,Kentucky,0
+1246,Kentucky,1222,Houston,1
+1400,Texas,1246,Kentucky,1
+1462,Xavier,1246,Kentucky,1
+1246,Kentucky,1231,Indiana,1
+1274,Miami FL,1246,Kentucky,1
+1246,Kentucky,1235,Iowa St,0
+1401,Texas A&M,1246,Kentucky,1
+1246,Kentucky,1234,Iowa,1
+1246,Kentucky,1120,Auburn,1
+1336,Penn St,1246,Kentucky,0
+1280,Mississippi St,1246,Kentucky,0
+1338,Pittsburgh,1246,Kentucky,0
+1246,Kentucky,1179,Drake,0
+1246,Kentucky,1245,Kent,0
+1246,Kentucky,1244,Kennesaw,1
+1246,Kentucky,1159,Colgate,1
+1297,N Kentucky,1246,Kentucky,0
+1246,Kentucky,1242,Kansas,1
+1417,UCLA,1246,Kentucky,1
+1246,Kentucky,1211,Gonzaga,1
+1246,Kentucky,1163,Connecticut,0
+1388,St Mary's CA,1246,Kentucky,1
+1395,TCU,1246,Kentucky,1
+1321,Northwestern,1246,Kentucky,0
+1246,Kentucky,1116,Arkansas,1
+1246,Kentucky,1228,Illinois,1
+1246,Kentucky,1129,Boise St,1
+1246,Kentucky,1113,Arizona St,1
+1305,Nevada,1246,Kentucky,0
+1433,VCU,1246,Kentucky,0
+1246,Kentucky,1233,Iona,1
+1246,Kentucky,1213,Grand Canyon,1
+1421,UNC Asheville,1246,Kentucky,0
+1246,Kentucky,1224,Howard,1
+1277,Michigan St,1277,Michigan St,1
+1277,Michigan St,1272,Memphis,0
+1277,Michigan St,1194,FL Atlantic,1
+1425,USC,1277,Michigan St,1
+1344,Providence,1277,Michigan St,1
+1331,Oral Roberts,1277,Michigan St,1
+1418,Louisiana,1277,Michigan St,1
+1286,Montana St,1277,Michigan St,0
+1436,Vermont,1277,Michigan St,0
+1277,Michigan St,1192,F Dickinson,1
+1411,TX Southern,1277,Michigan St,0
+1277,Michigan St,1104,Alabama,0
+1277,Michigan St,1112,Arizona,0
+1277,Michigan St,1124,Baylor,0
+1438,Virginia,1277,Michigan St,1
+1361,San Diego St,1277,Michigan St,1
+1277,Michigan St,1166,Creighton,1
+1281,Missouri,1277,Michigan St,0
+1277,Michigan St,1268,Maryland,0
+1452,West Virginia,1277,Michigan St,1
+1429,Utah St,1277,Michigan St,1
+1301,NC State,1277,Michigan St,1
+1277,Michigan St,1158,Col Charleston,1
+1277,Michigan St,1202,Furman,1
+1364,UC Santa Barbara,1277,Michigan St,1
+1343,Princeton,1277,Michigan St,0
+1369,SE Missouri St,1277,Michigan St,0
+1394,TAM C. Christi,1277,Michigan St,0
+1277,Michigan St,1222,Houston,1
+1400,Texas,1277,Michigan St,1
+1462,Xavier,1277,Michigan St,1
+1277,Michigan St,1231,Indiana,1
+1277,Michigan St,1274,Miami FL,0
+1277,Michigan St,1235,Iowa St,0
+1401,Texas A&M,1277,Michigan St,1
+1277,Michigan St,1234,Iowa,0
+1277,Michigan St,1120,Auburn,1
+1336,Penn St,1277,Michigan St,1
+1280,Mississippi St,1277,Michigan St,1
+1338,Pittsburgh,1277,Michigan St,1
+1277,Michigan St,1179,Drake,0
+1277,Michigan St,1245,Kent,0
+1277,Michigan St,1244,Kennesaw,1
+1277,Michigan St,1159,Colgate,1
+1297,N Kentucky,1277,Michigan St,0
+1277,Michigan St,1242,Kansas,1
+1417,UCLA,1277,Michigan St,1
+1277,Michigan St,1211,Gonzaga,1
+1277,Michigan St,1163,Connecticut,0
+1388,St Mary's CA,1277,Michigan St,1
+1395,TCU,1277,Michigan St,1
+1321,Northwestern,1277,Michigan St,1
+1277,Michigan St,1116,Arkansas,1
+1277,Michigan St,1228,Illinois,1
+1277,Michigan St,1129,Boise St,1
+1277,Michigan St,1113,Arizona St,1
+1305,Nevada,1277,Michigan St,1
+1433,VCU,1277,Michigan St,1
+1277,Michigan St,1233,Iona,1
+1277,Michigan St,1213,Grand Canyon,1
+1421,UNC Asheville,1277,Michigan St,1
+1277,Michigan St,1224,Howard,1
+1272,Memphis,1272,Memphis,0
+1272,Memphis,1194,FL Atlantic,1
+1425,USC,1272,Memphis,0
+1344,Providence,1272,Memphis,0
+1331,Oral Roberts,1272,Memphis,0
+1418,Louisiana,1272,Memphis,0
+1286,Montana St,1272,Memphis,0
+1436,Vermont,1272,Memphis,0
+1272,Memphis,1192,F Dickinson,1
+1411,TX Southern,1272,Memphis,0
+1272,Memphis,1104,Alabama,0
+1272,Memphis,1112,Arizona,0
+1272,Memphis,1124,Baylor,0
+1438,Virginia,1272,Memphis,0
+1361,San Diego St,1272,Memphis,0
+1272,Memphis,1166,Creighton,1
+1281,Missouri,1272,Memphis,0
+1272,Memphis,1268,Maryland,1
+1452,West Virginia,1272,Memphis,0
+1429,Utah St,1272,Memphis,0
+1301,NC State,1272,Memphis,0
+1272,Memphis,1158,Col Charleston,1
+1272,Memphis,1202,Furman,1
+1364,UC Santa Barbara,1272,Memphis,1
+1343,Princeton,1272,Memphis,0
+1369,SE Missouri St,1272,Memphis,0
+1394,TAM C. Christi,1272,Memphis,0
+1272,Memphis,1222,Houston,0
+1400,Texas,1272,Memphis,1
+1462,Xavier,1272,Memphis,1
+1272,Memphis,1231,Indiana,1
+1274,Miami FL,1272,Memphis,1
+1272,Memphis,1235,Iowa St,0
+1401,Texas A&M,1272,Memphis,0
+1272,Memphis,1234,Iowa,1
+1272,Memphis,1120,Auburn,1
+1336,Penn St,1272,Memphis,0
+1280,Mississippi St,1272,Memphis,0
+1338,Pittsburgh,1272,Memphis,0
+1272,Memphis,1179,Drake,0
+1272,Memphis,1245,Kent,0
+1272,Memphis,1244,Kennesaw,1
+1272,Memphis,1159,Colgate,1
+1297,N Kentucky,1272,Memphis,0
+1272,Memphis,1242,Kansas,0
+1417,UCLA,1272,Memphis,1
+1272,Memphis,1211,Gonzaga,1
+1272,Memphis,1163,Connecticut,0
+1388,St Mary's CA,1272,Memphis,0
+1395,TCU,1272,Memphis,0
+1321,Northwestern,1272,Memphis,0
+1272,Memphis,1116,Arkansas,1
+1272,Memphis,1228,Illinois,1
+1272,Memphis,1129,Boise St,1
+1272,Memphis,1113,Arizona St,1
+1305,Nevada,1272,Memphis,0
+1433,VCU,1272,Memphis,0
+1272,Memphis,1233,Iona,1
+1272,Memphis,1213,Grand Canyon,1
+1421,UNC Asheville,1272,Memphis,1
+1272,Memphis,1224,Howard,1
+1194,FL Atlantic,1194,FL Atlantic,0
+1425,USC,1194,FL Atlantic,0
+1344,Providence,1194,FL Atlantic,0
+1331,Oral Roberts,1194,FL Atlantic,0
+1418,Louisiana,1194,FL Atlantic,0
+1286,Montana St,1194,FL Atlantic,0
+1436,Vermont,1194,FL Atlantic,0
+1194,FL Atlantic,1192,F Dickinson,1
+1411,TX Southern,1194,FL Atlantic,0
+1194,FL Atlantic,1104,Alabama,0
+1194,FL Atlantic,1112,Arizona,0
+1194,FL Atlantic,1124,Baylor,0
+1438,Virginia,1194,FL Atlantic,0
+1361,San Diego St,1194,FL Atlantic,0
+1194,FL Atlantic,1166,Creighton,0
+1281,Missouri,1194,FL Atlantic,0
+1268,Maryland,1194,FL Atlantic,0
+1452,West Virginia,1194,FL Atlantic,1
+1429,Utah St,1194,FL Atlantic,0
+1301,NC State,1194,FL Atlantic,0
+1194,FL Atlantic,1158,Col Charleston,1
+1202,Furman,1194,FL Atlantic,0
+1364,UC Santa Barbara,1194,FL Atlantic,1
+1343,Princeton,1194,FL Atlantic,0
+1369,SE Missouri St,1194,FL Atlantic,0
+1394,TAM C. Christi,1194,FL Atlantic,0
+1222,Houston,1194,FL Atlantic,1
+1400,Texas,1194,FL Atlantic,1
+1462,Xavier,1194,FL Atlantic,1
+1231,Indiana,1194,FL Atlantic,0
+1274,Miami FL,1194,FL Atlantic,1
+1235,Iowa St,1194,FL Atlantic,0
+1401,Texas A&M,1194,FL Atlantic,1
+1234,Iowa,1194,FL Atlantic,0
+1194,FL Atlantic,1120,Auburn,0
+1336,Penn St,1194,FL Atlantic,0
+1280,Mississippi St,1194,FL Atlantic,0
+1338,Pittsburgh,1194,FL Atlantic,0
+1194,FL Atlantic,1179,Drake,0
+1245,Kent,1194,FL Atlantic,0
+1244,Kennesaw,1194,FL Atlantic,0
+1194,FL Atlantic,1159,Colgate,1
+1297,N Kentucky,1194,FL Atlantic,0
+1242,Kansas,1194,FL Atlantic,1
+1417,UCLA,1194,FL Atlantic,1
+1211,Gonzaga,1194,FL Atlantic,0
+1194,FL Atlantic,1163,Connecticut,0
+1388,St Mary's CA,1194,FL Atlantic,1
+1395,TCU,1194,FL Atlantic,1
+1321,Northwestern,1194,FL Atlantic,0
+1194,FL Atlantic,1116,Arkansas,1
+1228,Illinois,1194,FL Atlantic,0
+1194,FL Atlantic,1129,Boise St,1
+1194,FL Atlantic,1113,Arizona St,1
+1305,Nevada,1194,FL Atlantic,0
+1433,VCU,1194,FL Atlantic,0
+1233,Iona,1194,FL Atlantic,0
+1213,Grand Canyon,1194,FL Atlantic,0
+1421,UNC Asheville,1194,FL Atlantic,1
+1224,Howard,1194,FL Atlantic,0
+1425,USC,1425,USC,1
+1425,USC,1344,Providence,0
+1425,USC,1331,Oral Roberts,1
+1425,USC,1418,Louisiana,1
+1425,USC,1286,Montana St,1
+1436,Vermont,1425,USC,0
+1425,USC,1192,F Dickinson,1
+1425,USC,1411,TX Southern,1
+1425,USC,1104,Alabama,0
+1425,USC,1112,Arizona,0
+1425,USC,1124,Baylor,0
+1438,Virginia,1425,USC,0
+1425,USC,1361,San Diego St,0
+1425,USC,1166,Creighton,0
+1425,USC,1281,Missouri,1
+1425,USC,1268,Maryland,0
+1452,West Virginia,1425,USC,1
+1429,Utah St,1425,USC,1
+1425,USC,1301,NC State,1
+1425,USC,1158,Col Charleston,1
+1425,USC,1202,Furman,1
+1425,USC,1364,UC Santa Barbara,1
+1425,USC,1343,Princeton,0
+1425,USC,1369,SE Missouri St,1
+1425,USC,1394,TAM C. Christi,1
+1425,USC,1222,Houston,0
+1425,USC,1400,Texas,0
+1462,Xavier,1425,USC,1
+1425,USC,1231,Indiana,0
+1425,USC,1274,Miami FL,0
+1425,USC,1235,Iowa St,0
+1425,USC,1401,Texas A&M,1
+1425,USC,1234,Iowa,0
+1425,USC,1120,Auburn,0
+1425,USC,1336,Penn St,1
+1425,USC,1280,Mississippi St,1
+1425,USC,1338,Pittsburgh,1
+1425,USC,1179,Drake,0
+1425,USC,1245,Kent,0
+1425,USC,1244,Kennesaw,0
+1425,USC,1159,Colgate,1
+1425,USC,1297,N Kentucky,1
+1425,USC,1242,Kansas,0
+1425,USC,1417,UCLA,0
+1425,USC,1211,Gonzaga,0
+1425,USC,1163,Connecticut,0
+1425,USC,1388,St Mary's CA,0
+1425,USC,1395,TCU,0
+1425,USC,1321,Northwestern,1
+1425,USC,1116,Arkansas,1
+1425,USC,1228,Illinois,1
+1425,USC,1129,Boise St,1
+1425,USC,1113,Arizona St,1
+1425,USC,1305,Nevada,0
+1433,VCU,1425,USC,1
+1425,USC,1233,Iona,1
+1425,USC,1213,Grand Canyon,1
+1425,USC,1421,UNC Asheville,1
+1425,USC,1224,Howard,0
+1344,Providence,1344,Providence,0
+1344,Providence,1331,Oral Roberts,1
+1418,Louisiana,1344,Providence,0
+1344,Providence,1286,Montana St,1
+1436,Vermont,1344,Providence,0
+1344,Providence,1192,F Dickinson,1
+1411,TX Southern,1344,Providence,0
+1344,Providence,1104,Alabama,0
+1344,Providence,1112,Arizona,0
+1344,Providence,1124,Baylor,0
+1438,Virginia,1344,Providence,0
+1361,San Diego St,1344,Providence,0
+1344,Providence,1166,Creighton,0
+1344,Providence,1281,Missouri,0
+1344,Providence,1268,Maryland,0
+1452,West Virginia,1344,Providence,1
+1429,Utah St,1344,Providence,0
+1344,Providence,1301,NC State,1
+1344,Providence,1158,Col Charleston,1
+1344,Providence,1202,Furman,1
+1364,UC Santa Barbara,1344,Providence,1
+1344,Providence,1343,Princeton,0
+1369,SE Missouri St,1344,Providence,0
+1394,TAM C. Christi,1344,Providence,0
+1344,Providence,1222,Houston,0
+1400,Texas,1344,Providence,1
+1462,Xavier,1344,Providence,1
+1344,Providence,1231,Indiana,0
+1344,Providence,1274,Miami FL,0
+1344,Providence,1235,Iowa St,0
+1401,Texas A&M,1344,Providence,1
+1344,Providence,1234,Iowa,0
+1344,Providence,1120,Auburn,0
+1344,Providence,1336,Penn St,0
+1344,Providence,1280,Mississippi St,1
+1344,Providence,1338,Pittsburgh,1
+1344,Providence,1179,Drake,0
+1344,Providence,1245,Kent,0
+1344,Providence,1244,Kennesaw,0
+1344,Providence,1159,Colgate,1
+1344,Providence,1297,N Kentucky,1
+1344,Providence,1242,Kansas,0
+1417,UCLA,1344,Providence,1
+1344,Providence,1211,Gonzaga,0
+1344,Providence,1163,Connecticut,0
+1388,St Mary's CA,1344,Providence,0
+1395,TCU,1344,Providence,0
+1344,Providence,1321,Northwestern,1
+1344,Providence,1116,Arkansas,1
+1344,Providence,1228,Illinois,1
+1344,Providence,1129,Boise St,1
+1344,Providence,1113,Arizona St,1
+1344,Providence,1305,Nevada,0
+1433,VCU,1344,Providence,0
+1344,Providence,1233,Iona,0
+1344,Providence,1213,Grand Canyon,1
+1421,UNC Asheville,1344,Providence,1
+1344,Providence,1224,Howard,0
+1331,Oral Roberts,1331,Oral Roberts,1
+1418,Louisiana,1331,Oral Roberts,1
+1331,Oral Roberts,1286,Montana St,1
+1436,Vermont,1331,Oral Roberts,1
+1331,Oral Roberts,1192,F Dickinson,1
+1411,TX Southern,1331,Oral Roberts,0
+1331,Oral Roberts,1104,Alabama,0
+1331,Oral Roberts,1112,Arizona,0
+1331,Oral Roberts,1124,Baylor,0
+1438,Virginia,1331,Oral Roberts,1
+1361,San Diego St,1331,Oral Roberts,1
+1331,Oral Roberts,1166,Creighton,0
+1331,Oral Roberts,1281,Missouri,0
+1331,Oral Roberts,1268,Maryland,0
+1452,West Virginia,1331,Oral Roberts,1
+1429,Utah St,1331,Oral Roberts,1
+1331,Oral Roberts,1301,NC State,1
+1331,Oral Roberts,1158,Col Charleston,1
+1331,Oral Roberts,1202,Furman,1
+1364,UC Santa Barbara,1331,Oral Roberts,1
+1343,Princeton,1331,Oral Roberts,0
+1369,SE Missouri St,1331,Oral Roberts,0
+1394,TAM C. Christi,1331,Oral Roberts,0
+1331,Oral Roberts,1222,Houston,0
+1400,Texas,1331,Oral Roberts,1
+1462,Xavier,1331,Oral Roberts,1
+1331,Oral Roberts,1231,Indiana,0
+1331,Oral Roberts,1274,Miami FL,0
+1331,Oral Roberts,1235,Iowa St,0
+1401,Texas A&M,1331,Oral Roberts,1
+1331,Oral Roberts,1234,Iowa,0
+1331,Oral Roberts,1120,Auburn,0
+1336,Penn St,1331,Oral Roberts,1
+1331,Oral Roberts,1280,Mississippi St,1
+1338,Pittsburgh,1331,Oral Roberts,1
+1331,Oral Roberts,1179,Drake,0
+1331,Oral Roberts,1245,Kent,0
+1331,Oral Roberts,1244,Kennesaw,0
+1331,Oral Roberts,1159,Colgate,0
+1331,Oral Roberts,1297,N Kentucky,1
+1331,Oral Roberts,1242,Kansas,0
+1417,UCLA,1331,Oral Roberts,1
+1331,Oral Roberts,1211,Gonzaga,0
+1331,Oral Roberts,1163,Connecticut,0
+1388,St Mary's CA,1331,Oral Roberts,1
+1395,TCU,1331,Oral Roberts,1
+1331,Oral Roberts,1321,Northwestern,1
+1331,Oral Roberts,1116,Arkansas,1
+1331,Oral Roberts,1228,Illinois,1
+1331,Oral Roberts,1129,Boise St,1
+1331,Oral Roberts,1113,Arizona St,1
+1331,Oral Roberts,1305,Nevada,0
+1433,VCU,1331,Oral Roberts,1
+1331,Oral Roberts,1233,Iona,0
+1331,Oral Roberts,1213,Grand Canyon,1
+1421,UNC Asheville,1331,Oral Roberts,1
+1331,Oral Roberts,1224,Howard,0
+1418,Louisiana,1418,Louisiana,1
+1418,Louisiana,1286,Montana St,1
+1436,Vermont,1418,Louisiana,1
+1418,Louisiana,1192,F Dickinson,1
+1418,Louisiana,1411,TX Southern,1
+1418,Louisiana,1104,Alabama,0
+1418,Louisiana,1112,Arizona,0
+1418,Louisiana,1124,Baylor,0
+1438,Virginia,1418,Louisiana,1
+1418,Louisiana,1361,San Diego St,0
+1418,Louisiana,1166,Creighton,0
+1418,Louisiana,1281,Missouri,0
+1418,Louisiana,1268,Maryland,0
+1452,West Virginia,1418,Louisiana,1
+1429,Utah St,1418,Louisiana,1
+1418,Louisiana,1301,NC State,0
+1418,Louisiana,1158,Col Charleston,0
+1418,Louisiana,1202,Furman,1
+1418,Louisiana,1364,UC Santa Barbara,0
+1418,Louisiana,1343,Princeton,0
+1418,Louisiana,1369,SE Missouri St,1
+1418,Louisiana,1394,TAM C. Christi,1
+1418,Louisiana,1222,Houston,0
+1418,Louisiana,1400,Texas,0
+1462,Xavier,1418,Louisiana,1
+1418,Louisiana,1231,Indiana,0
+1418,Louisiana,1274,Miami FL,0
+1418,Louisiana,1235,Iowa St,0
+1418,Louisiana,1401,Texas A&M,0
+1418,Louisiana,1234,Iowa,0
+1418,Louisiana,1120,Auburn,0
+1418,Louisiana,1336,Penn St,0
+1418,Louisiana,1280,Mississippi St,1
+1418,Louisiana,1338,Pittsburgh,1
+1418,Louisiana,1179,Drake,0
+1418,Louisiana,1245,Kent,0
+1418,Louisiana,1244,Kennesaw,0
+1418,Louisiana,1159,Colgate,0
+1418,Louisiana,1297,N Kentucky,1
+1418,Louisiana,1242,Kansas,0
+1418,Louisiana,1417,UCLA,0
+1418,Louisiana,1211,Gonzaga,0
+1418,Louisiana,1163,Connecticut,0
+1418,Louisiana,1388,St Mary's CA,0
+1418,Louisiana,1395,TCU,0
+1418,Louisiana,1321,Northwestern,0
+1418,Louisiana,1116,Arkansas,0
+1418,Louisiana,1228,Illinois,0
+1418,Louisiana,1129,Boise St,1
+1418,Louisiana,1113,Arizona St,1
+1418,Louisiana,1305,Nevada,0
+1433,VCU,1418,Louisiana,1
+1418,Louisiana,1233,Iona,1
+1418,Louisiana,1213,Grand Canyon,1
+1421,UNC Asheville,1418,Louisiana,1
+1418,Louisiana,1224,Howard,0
+1286,Montana St,1286,Montana St,1
+1436,Vermont,1286,Montana St,0
+1286,Montana St,1192,F Dickinson,1
+1411,TX Southern,1286,Montana St,0
+1286,Montana St,1104,Alabama,0
+1286,Montana St,1112,Arizona,0
+1286,Montana St,1124,Baylor,0
+1438,Virginia,1286,Montana St,1
+1361,San Diego St,1286,Montana St,1
+1286,Montana St,1166,Creighton,0
+1286,Montana St,1281,Missouri,0
+1286,Montana St,1268,Maryland,0
+1452,West Virginia,1286,Montana St,1
+1429,Utah St,1286,Montana St,1
+1301,NC State,1286,Montana St,1
+1286,Montana St,1158,Col Charleston,0
+1286,Montana St,1202,Furman,1
+1364,UC Santa Barbara,1286,Montana St,1
+1343,Princeton,1286,Montana St,0
+1369,SE Missouri St,1286,Montana St,0
+1394,TAM C. Christi,1286,Montana St,0
+1286,Montana St,1222,Houston,0
+1400,Texas,1286,Montana St,1
+1462,Xavier,1286,Montana St,1
+1286,Montana St,1231,Indiana,0
+1286,Montana St,1274,Miami FL,0
+1286,Montana St,1235,Iowa St,0
+1401,Texas A&M,1286,Montana St,1
+1286,Montana St,1234,Iowa,0
+1286,Montana St,1120,Auburn,0
+1336,Penn St,1286,Montana St,1
+1286,Montana St,1280,Mississippi St,1
+1338,Pittsburgh,1286,Montana St,1
+1286,Montana St,1179,Drake,0
+1286,Montana St,1245,Kent,0
+1286,Montana St,1244,Kennesaw,0
+1286,Montana St,1159,Colgate,0
+1297,N Kentucky,1286,Montana St,0
+1286,Montana St,1242,Kansas,0
+1417,UCLA,1286,Montana St,1
+1286,Montana St,1211,Gonzaga,0
+1286,Montana St,1163,Connecticut,0
+1388,St Mary's CA,1286,Montana St,1
+1395,TCU,1286,Montana St,1
+1321,Northwestern,1286,Montana St,1
+1286,Montana St,1116,Arkansas,0
+1286,Montana St,1228,Illinois,0
+1286,Montana St,1129,Boise St,1
+1286,Montana St,1113,Arizona St,1
+1305,Nevada,1286,Montana St,1
+1433,VCU,1286,Montana St,1
+1286,Montana St,1233,Iona,0
+1286,Montana St,1213,Grand Canyon,1
+1421,UNC Asheville,1286,Montana St,1
+1286,Montana St,1224,Howard,0
+1436,Vermont,1436,Vermont,1
+1436,Vermont,1192,F Dickinson,0
+1436,Vermont,1411,TX Southern,1
+1436,Vermont,1104,Alabama,0
+1436,Vermont,1112,Arizona,0
+1436,Vermont,1124,Baylor,0
+1438,Virginia,1436,Vermont,1
+1436,Vermont,1361,San Diego St,0
+1436,Vermont,1166,Creighton,0
+1436,Vermont,1281,Missouri,0
+1436,Vermont,1268,Maryland,0
+1452,West Virginia,1436,Vermont,1
+1436,Vermont,1429,Utah St,0
+1436,Vermont,1301,NC State,0
+1436,Vermont,1158,Col Charleston,0
+1436,Vermont,1202,Furman,0
+1436,Vermont,1364,UC Santa Barbara,0
+1436,Vermont,1343,Princeton,0
+1436,Vermont,1369,SE Missouri St,1
+1436,Vermont,1394,TAM C. Christi,0
+1436,Vermont,1222,Houston,0
+1436,Vermont,1400,Texas,0
+1462,Xavier,1436,Vermont,1
+1436,Vermont,1231,Indiana,0
+1436,Vermont,1274,Miami FL,0
+1436,Vermont,1235,Iowa St,0
+1436,Vermont,1401,Texas A&M,0
+1436,Vermont,1234,Iowa,0
+1436,Vermont,1120,Auburn,0
+1436,Vermont,1336,Penn St,0
+1436,Vermont,1280,Mississippi St,0
+1436,Vermont,1338,Pittsburgh,0
+1436,Vermont,1179,Drake,0
+1436,Vermont,1245,Kent,0
+1436,Vermont,1244,Kennesaw,0
+1436,Vermont,1159,Colgate,0
+1436,Vermont,1297,N Kentucky,1
+1436,Vermont,1242,Kansas,0
+1436,Vermont,1417,UCLA,0
+1436,Vermont,1211,Gonzaga,0
+1436,Vermont,1163,Connecticut,0
+1436,Vermont,1388,St Mary's CA,0
+1436,Vermont,1395,TCU,0
+1436,Vermont,1321,Northwestern,0
+1436,Vermont,1116,Arkansas,0
+1436,Vermont,1228,Illinois,0
+1436,Vermont,1129,Boise St,0
+1436,Vermont,1113,Arizona St,0
+1436,Vermont,1305,Nevada,0
+1436,Vermont,1433,VCU,0
+1436,Vermont,1233,Iona,0
+1436,Vermont,1213,Grand Canyon,0
+1436,Vermont,1421,UNC Asheville,1
+1436,Vermont,1224,Howard,0
+1192,F Dickinson,1192,F Dickinson,0
+1411,TX Southern,1192,F Dickinson,0
+1192,F Dickinson,1104,Alabama,0
+1192,F Dickinson,1112,Arizona,0
+1192,F Dickinson,1124,Baylor,0
+1438,Virginia,1192,F Dickinson,1
+1361,San Diego St,1192,F Dickinson,1
+1192,F Dickinson,1166,Creighton,0
+1281,Missouri,1192,F Dickinson,1
+1268,Maryland,1192,F Dickinson,1
+1452,West Virginia,1192,F Dickinson,1
+1429,Utah St,1192,F Dickinson,1
+1301,NC State,1192,F Dickinson,1
+1192,F Dickinson,1158,Col Charleston,0
+1202,Furman,1192,F Dickinson,1
+1364,UC Santa Barbara,1192,F Dickinson,1
+1343,Princeton,1192,F Dickinson,0
+1369,SE Missouri St,1192,F Dickinson,1
+1394,TAM C. Christi,1192,F Dickinson,0
+1222,Houston,1192,F Dickinson,1
+1400,Texas,1192,F Dickinson,1
+1462,Xavier,1192,F Dickinson,1
+1231,Indiana,1192,F Dickinson,1
+1274,Miami FL,1192,F Dickinson,1
+1235,Iowa St,1192,F Dickinson,1
+1401,Texas A&M,1192,F Dickinson,1
+1234,Iowa,1192,F Dickinson,1
+1192,F Dickinson,1120,Auburn,0
+1336,Penn St,1192,F Dickinson,1
+1280,Mississippi St,1192,F Dickinson,1
+1338,Pittsburgh,1192,F Dickinson,1
+1192,F Dickinson,1179,Drake,0
+1245,Kent,1192,F Dickinson,0
+1244,Kennesaw,1192,F Dickinson,0
+1192,F Dickinson,1159,Colgate,0
+1297,N Kentucky,1192,F Dickinson,0
+1242,Kansas,1192,F Dickinson,1
+1417,UCLA,1192,F Dickinson,1
+1211,Gonzaga,1192,F Dickinson,1
+1192,F Dickinson,1163,Connecticut,0
+1388,St Mary's CA,1192,F Dickinson,1
+1395,TCU,1192,F Dickinson,1
+1321,Northwestern,1192,F Dickinson,1
+1192,F Dickinson,1116,Arkansas,0
+1228,Illinois,1192,F Dickinson,1
+1192,F Dickinson,1129,Boise St,0
+1192,F Dickinson,1113,Arizona St,0
+1305,Nevada,1192,F Dickinson,1
+1433,VCU,1192,F Dickinson,1
+1233,Iona,1192,F Dickinson,1
+1213,Grand Canyon,1192,F Dickinson,1
+1421,UNC Asheville,1192,F Dickinson,1
+1224,Howard,1192,F Dickinson,0
+1411,TX Southern,1411,TX Southern,1
+1411,TX Southern,1104,Alabama,0
+1411,TX Southern,1112,Arizona,0
+1411,TX Southern,1124,Baylor,0
+1438,Virginia,1411,TX Southern,1
+1411,TX Southern,1361,San Diego St,0
+1411,TX Southern,1166,Creighton,0
+1411,TX Southern,1281,Missouri,0
+1411,TX Southern,1268,Maryland,0
+1452,West Virginia,1411,TX Southern,1
+1429,Utah St,1411,TX Southern,1
+1411,TX Southern,1301,NC State,0
+1411,TX Southern,1158,Col Charleston,0
+1411,TX Southern,1202,Furman,0
+1411,TX Southern,1364,UC Santa Barbara,0
+1411,TX Southern,1343,Princeton,0
+1411,TX Southern,1369,SE Missouri St,0
+1411,TX Southern,1394,TAM C. Christi,0
+1411,TX Southern,1222,Houston,0
+1411,TX Southern,1400,Texas,0
+1462,Xavier,1411,TX Southern,1
+1411,TX Southern,1231,Indiana,0
+1411,TX Southern,1274,Miami FL,0
+1411,TX Southern,1235,Iowa St,0
+1411,TX Southern,1401,Texas A&M,0
+1411,TX Southern,1234,Iowa,0
+1411,TX Southern,1120,Auburn,0
+1411,TX Southern,1336,Penn St,0
+1411,TX Southern,1280,Mississippi St,0
+1411,TX Southern,1338,Pittsburgh,0
+1411,TX Southern,1179,Drake,0
+1411,TX Southern,1245,Kent,0
+1411,TX Southern,1244,Kennesaw,0
+1411,TX Southern,1159,Colgate,0
+1411,TX Southern,1297,N Kentucky,0
+1411,TX Southern,1242,Kansas,0
+1417,UCLA,1411,TX Southern,1
+1411,TX Southern,1211,Gonzaga,0
+1411,TX Southern,1163,Connecticut,0
+1411,TX Southern,1388,St Mary's CA,0
+1411,TX Southern,1395,TCU,0
+1411,TX Southern,1321,Northwestern,0
+1411,TX Southern,1116,Arkansas,0
+1411,TX Southern,1228,Illinois,0
+1411,TX Southern,1129,Boise St,0
+1411,TX Southern,1113,Arizona St,0
+1411,TX Southern,1305,Nevada,0
+1433,VCU,1411,TX Southern,1
+1411,TX Southern,1233,Iona,0
+1411,TX Southern,1213,Grand Canyon,0
+1421,UNC Asheville,1411,TX Southern,1
+1411,TX Southern,1224,Howard,0
+1104,Alabama,1104,Alabama,0
+1112,Arizona,1104,Alabama,1
+1124,Baylor,1104,Alabama,0
+1438,Virginia,1104,Alabama,0
+1361,San Diego St,1104,Alabama,0
+1166,Creighton,1104,Alabama,0
+1281,Missouri,1104,Alabama,0
+1268,Maryland,1104,Alabama,0
+1452,West Virginia,1104,Alabama,0
+1429,Utah St,1104,Alabama,0
+1301,NC State,1104,Alabama,0
+1158,Col Charleston,1104,Alabama,0
+1202,Furman,1104,Alabama,0
+1364,UC Santa Barbara,1104,Alabama,0
+1343,Princeton,1104,Alabama,0
+1369,SE Missouri St,1104,Alabama,0
+1394,TAM C. Christi,1104,Alabama,0
+1222,Houston,1104,Alabama,0
+1400,Texas,1104,Alabama,1
+1462,Xavier,1104,Alabama,0
+1231,Indiana,1104,Alabama,0
+1274,Miami FL,1104,Alabama,1
+1235,Iowa St,1104,Alabama,0
+1401,Texas A&M,1104,Alabama,0
+1234,Iowa,1104,Alabama,0
+1120,Auburn,1104,Alabama,0
+1336,Penn St,1104,Alabama,0
+1280,Mississippi St,1104,Alabama,0
+1338,Pittsburgh,1104,Alabama,0
+1179,Drake,1104,Alabama,0
+1245,Kent,1104,Alabama,0
+1244,Kennesaw,1104,Alabama,0
+1159,Colgate,1104,Alabama,0
+1297,N Kentucky,1104,Alabama,0
+1242,Kansas,1104,Alabama,0
+1417,UCLA,1104,Alabama,0
+1211,Gonzaga,1104,Alabama,0
+1163,Connecticut,1104,Alabama,1
+1388,St Mary's CA,1104,Alabama,0
+1395,TCU,1104,Alabama,0
+1321,Northwestern,1104,Alabama,0
+1116,Arkansas,1104,Alabama,1
+1228,Illinois,1104,Alabama,0
+1129,Boise St,1104,Alabama,0
+1113,Arizona St,1104,Alabama,0
+1305,Nevada,1104,Alabama,0
+1433,VCU,1104,Alabama,0
+1233,Iona,1104,Alabama,0
+1213,Grand Canyon,1104,Alabama,0
+1421,UNC Asheville,1104,Alabama,0
+1224,Howard,1104,Alabama,0
+1112,Arizona,1112,Arizona,1
+1124,Baylor,1112,Arizona,0
+1438,Virginia,1112,Arizona,0
+1361,San Diego St,1112,Arizona,0
+1166,Creighton,1112,Arizona,0
+1281,Missouri,1112,Arizona,0
+1268,Maryland,1112,Arizona,0
+1452,West Virginia,1112,Arizona,1
+1429,Utah St,1112,Arizona,0
+1301,NC State,1112,Arizona,0
+1158,Col Charleston,1112,Arizona,0
+1202,Furman,1112,Arizona,0
+1364,UC Santa Barbara,1112,Arizona,0
+1343,Princeton,1112,Arizona,0
+1369,SE Missouri St,1112,Arizona,0
+1394,TAM C. Christi,1112,Arizona,0
+1222,Houston,1112,Arizona,1
+1400,Texas,1112,Arizona,1
+1462,Xavier,1112,Arizona,1
+1231,Indiana,1112,Arizona,0
+1274,Miami FL,1112,Arizona,1
+1235,Iowa St,1112,Arizona,0
+1401,Texas A&M,1112,Arizona,1
+1234,Iowa,1112,Arizona,0
+1120,Auburn,1112,Arizona,0
+1336,Penn St,1112,Arizona,0
+1280,Mississippi St,1112,Arizona,0
+1338,Pittsburgh,1112,Arizona,0
+1179,Drake,1112,Arizona,0
+1245,Kent,1112,Arizona,0
+1244,Kennesaw,1112,Arizona,0
+1159,Colgate,1112,Arizona,0
+1297,N Kentucky,1112,Arizona,0
+1242,Kansas,1112,Arizona,0
+1417,UCLA,1112,Arizona,1
+1211,Gonzaga,1112,Arizona,0
+1163,Connecticut,1112,Arizona,1
+1388,St Mary's CA,1112,Arizona,0
+1395,TCU,1112,Arizona,0
+1321,Northwestern,1112,Arizona,0
+1116,Arkansas,1112,Arizona,1
+1228,Illinois,1112,Arizona,0
+1129,Boise St,1112,Arizona,1
+1113,Arizona St,1112,Arizona,0
+1305,Nevada,1112,Arizona,0
+1433,VCU,1112,Arizona,0
+1233,Iona,1112,Arizona,0
+1213,Grand Canyon,1112,Arizona,0
+1421,UNC Asheville,1112,Arizona,1
+1224,Howard,1112,Arizona,0
+1124,Baylor,1124,Baylor,0
+1438,Virginia,1124,Baylor,0
+1361,San Diego St,1124,Baylor,0
+1166,Creighton,1124,Baylor,0
+1281,Missouri,1124,Baylor,0
+1268,Maryland,1124,Baylor,0
+1452,West Virginia,1124,Baylor,0
+1429,Utah St,1124,Baylor,0
+1301,NC State,1124,Baylor,0
+1158,Col Charleston,1124,Baylor,0
+1202,Furman,1124,Baylor,0
+1364,UC Santa Barbara,1124,Baylor,1
+1343,Princeton,1124,Baylor,0
+1369,SE Missouri St,1124,Baylor,0
+1394,TAM C. Christi,1124,Baylor,0
+1222,Houston,1124,Baylor,1
+1400,Texas,1124,Baylor,1
+1462,Xavier,1124,Baylor,0
+1231,Indiana,1124,Baylor,0
+1274,Miami FL,1124,Baylor,1
+1235,Iowa St,1124,Baylor,0
+1401,Texas A&M,1124,Baylor,0
+1234,Iowa,1124,Baylor,0
+1124,Baylor,1120,Auburn,0
+1336,Penn St,1124,Baylor,0
+1280,Mississippi St,1124,Baylor,0
+1338,Pittsburgh,1124,Baylor,0
+1179,Drake,1124,Baylor,0
+1245,Kent,1124,Baylor,0
+1244,Kennesaw,1124,Baylor,0
+1159,Colgate,1124,Baylor,0
+1297,N Kentucky,1124,Baylor,0
+1242,Kansas,1124,Baylor,0
+1417,UCLA,1124,Baylor,0
+1211,Gonzaga,1124,Baylor,0
+1163,Connecticut,1124,Baylor,1
+1388,St Mary's CA,1124,Baylor,0
+1395,TCU,1124,Baylor,0
+1321,Northwestern,1124,Baylor,0
+1124,Baylor,1116,Arkansas,1
+1228,Illinois,1124,Baylor,0
+1129,Boise St,1124,Baylor,0
+1124,Baylor,1113,Arizona St,1
+1305,Nevada,1124,Baylor,0
+1433,VCU,1124,Baylor,0
+1233,Iona,1124,Baylor,0
+1213,Grand Canyon,1124,Baylor,0
+1421,UNC Asheville,1124,Baylor,0
+1224,Howard,1124,Baylor,0
+1438,Virginia,1438,Virginia,0
+1438,Virginia,1361,San Diego St,0
+1438,Virginia,1166,Creighton,0
+1438,Virginia,1281,Missouri,0
+1438,Virginia,1268,Maryland,0
+1452,West Virginia,1438,Virginia,1
+1438,Virginia,1429,Utah St,0
+1438,Virginia,1301,NC State,1
+1438,Virginia,1158,Col Charleston,1
+1438,Virginia,1202,Furman,1
+1438,Virginia,1364,UC Santa Barbara,0
+1438,Virginia,1343,Princeton,0
+1438,Virginia,1369,SE Missouri St,1
+1438,Virginia,1394,TAM C. Christi,1
+1438,Virginia,1222,Houston,0
+1438,Virginia,1400,Texas,0
+1462,Xavier,1438,Virginia,1
+1438,Virginia,1231,Indiana,0
+1438,Virginia,1274,Miami FL,0
+1438,Virginia,1235,Iowa St,0
+1438,Virginia,1401,Texas A&M,1
+1438,Virginia,1234,Iowa,0
+1438,Virginia,1120,Auburn,0
+1438,Virginia,1336,Penn St,0
+1438,Virginia,1280,Mississippi St,1
+1438,Virginia,1338,Pittsburgh,1
+1438,Virginia,1179,Drake,0
+1438,Virginia,1245,Kent,0
+1438,Virginia,1244,Kennesaw,0
+1438,Virginia,1159,Colgate,1
+1438,Virginia,1297,N Kentucky,1
+1438,Virginia,1242,Kansas,0
+1438,Virginia,1417,UCLA,0
+1438,Virginia,1211,Gonzaga,0
+1438,Virginia,1163,Connecticut,0
+1438,Virginia,1388,St Mary's CA,0
+1438,Virginia,1395,TCU,0
+1438,Virginia,1321,Northwestern,1
+1438,Virginia,1116,Arkansas,1
+1438,Virginia,1228,Illinois,1
+1438,Virginia,1129,Boise St,1
+1438,Virginia,1113,Arizona St,1
+1438,Virginia,1305,Nevada,0
+1438,Virginia,1433,VCU,0
+1438,Virginia,1233,Iona,0
+1438,Virginia,1213,Grand Canyon,1
+1438,Virginia,1421,UNC Asheville,1
+1438,Virginia,1224,Howard,0
+1361,San Diego St,1361,San Diego St,0
+1361,San Diego St,1166,Creighton,0
+1361,San Diego St,1281,Missouri,1
+1361,San Diego St,1268,Maryland,0
+1452,West Virginia,1361,San Diego St,1
+1429,Utah St,1361,San Diego St,0
+1361,San Diego St,1301,NC State,1
+1361,San Diego St,1158,Col Charleston,1
+1361,San Diego St,1202,Furman,1
+1364,UC Santa Barbara,1361,San Diego St,0
+1361,San Diego St,1343,Princeton,0
+1369,SE Missouri St,1361,San Diego St,0
+1394,TAM C. Christi,1361,San Diego St,0
+1361,San Diego St,1222,Houston,0
+1400,Texas,1361,San Diego St,1
+1462,Xavier,1361,San Diego St,1
+1361,San Diego St,1231,Indiana,1
+1361,San Diego St,1274,Miami FL,0
+1361,San Diego St,1235,Iowa St,0
+1401,Texas A&M,1361,San Diego St,1
+1361,San Diego St,1234,Iowa,0
+1361,San Diego St,1120,Auburn,1
+1361,San Diego St,1336,Penn St,1
+1361,San Diego St,1280,Mississippi St,1
+1361,San Diego St,1338,Pittsburgh,1
+1361,San Diego St,1179,Drake,0
+1361,San Diego St,1245,Kent,0
+1361,San Diego St,1244,Kennesaw,0
+1361,San Diego St,1159,Colgate,1
+1361,San Diego St,1297,N Kentucky,1
+1361,San Diego St,1242,Kansas,0
+1417,UCLA,1361,San Diego St,1
+1361,San Diego St,1211,Gonzaga,1
+1361,San Diego St,1163,Connecticut,0
+1388,St Mary's CA,1361,San Diego St,1
+1395,TCU,1361,San Diego St,1
+1361,San Diego St,1321,Northwestern,1
+1361,San Diego St,1116,Arkansas,1
+1361,San Diego St,1228,Illinois,1
+1361,San Diego St,1129,Boise St,1
+1361,San Diego St,1113,Arizona St,1
+1361,San Diego St,1305,Nevada,0
+1433,VCU,1361,San Diego St,0
+1361,San Diego St,1233,Iona,0
+1361,San Diego St,1213,Grand Canyon,1
+1421,UNC Asheville,1361,San Diego St,1
+1361,San Diego St,1224,Howard,0
+1166,Creighton,1166,Creighton,1
+1281,Missouri,1166,Creighton,0
+1268,Maryland,1166,Creighton,1
+1452,West Virginia,1166,Creighton,1
+1429,Utah St,1166,Creighton,0
+1301,NC State,1166,Creighton,1
+1166,Creighton,1158,Col Charleston,1
+1202,Furman,1166,Creighton,0
+1364,UC Santa Barbara,1166,Creighton,1
+1343,Princeton,1166,Creighton,0
+1369,SE Missouri St,1166,Creighton,0
+1394,TAM C. Christi,1166,Creighton,0
+1222,Houston,1166,Creighton,1
+1400,Texas,1166,Creighton,1
+1462,Xavier,1166,Creighton,1
+1231,Indiana,1166,Creighton,0
+1274,Miami FL,1166,Creighton,1
+1235,Iowa St,1166,Creighton,0
+1401,Texas A&M,1166,Creighton,1
+1234,Iowa,1166,Creighton,0
+1166,Creighton,1120,Auburn,1
+1336,Penn St,1166,Creighton,0
+1280,Mississippi St,1166,Creighton,0
+1338,Pittsburgh,1166,Creighton,0
+1179,Drake,1166,Creighton,1
+1245,Kent,1166,Creighton,0
+1244,Kennesaw,1166,Creighton,0
+1166,Creighton,1159,Colgate,1
+1297,N Kentucky,1166,Creighton,0
+1242,Kansas,1166,Creighton,1
+1417,UCLA,1166,Creighton,1
+1211,Gonzaga,1166,Creighton,1
+1166,Creighton,1163,Connecticut,0
+1388,St Mary's CA,1166,Creighton,1
+1395,TCU,1166,Creighton,1
+1321,Northwestern,1166,Creighton,0
+1166,Creighton,1116,Arkansas,1
+1228,Illinois,1166,Creighton,0
+1166,Creighton,1129,Boise St,1
+1166,Creighton,1113,Arizona St,1
+1305,Nevada,1166,Creighton,1
+1433,VCU,1166,Creighton,0
+1233,Iona,1166,Creighton,0
+1213,Grand Canyon,1166,Creighton,0
+1421,UNC Asheville,1166,Creighton,1
+1224,Howard,1166,Creighton,0
+1281,Missouri,1281,Missouri,0
+1281,Missouri,1268,Maryland,0
+1452,West Virginia,1281,Missouri,1
+1429,Utah St,1281,Missouri,0
+1301,NC State,1281,Missouri,1
+1281,Missouri,1158,Col Charleston,0
+1281,Missouri,1202,Furman,1
+1364,UC Santa Barbara,1281,Missouri,1
+1343,Princeton,1281,Missouri,0
+1369,SE Missouri St,1281,Missouri,0
+1394,TAM C. Christi,1281,Missouri,0
+1281,Missouri,1222,Houston,0
+1400,Texas,1281,Missouri,1
+1462,Xavier,1281,Missouri,1
+1281,Missouri,1231,Indiana,0
+1281,Missouri,1274,Miami FL,0
+1281,Missouri,1235,Iowa St,0
+1401,Texas A&M,1281,Missouri,1
+1281,Missouri,1234,Iowa,0
+1281,Missouri,1120,Auburn,0
+1336,Penn St,1281,Missouri,0
+1281,Missouri,1280,Mississippi St,0
+1338,Pittsburgh,1281,Missouri,0
+1281,Missouri,1179,Drake,0
+1281,Missouri,1245,Kent,0
+1281,Missouri,1244,Kennesaw,0
+1281,Missouri,1159,Colgate,0
+1297,N Kentucky,1281,Missouri,0
+1281,Missouri,1242,Kansas,0
+1417,UCLA,1281,Missouri,1
+1281,Missouri,1211,Gonzaga,0
+1281,Missouri,1163,Connecticut,0
+1388,St Mary's CA,1281,Missouri,1
+1395,TCU,1281,Missouri,1
+1321,Northwestern,1281,Missouri,0
+1281,Missouri,1116,Arkansas,0
+1281,Missouri,1228,Illinois,0
+1281,Missouri,1129,Boise St,1
+1281,Missouri,1113,Arizona St,1
+1305,Nevada,1281,Missouri,1
+1433,VCU,1281,Missouri,0
+1281,Missouri,1233,Iona,0
+1281,Missouri,1213,Grand Canyon,1
+1421,UNC Asheville,1281,Missouri,1
+1281,Missouri,1224,Howard,0
+1268,Maryland,1268,Maryland,0
+1452,West Virginia,1268,Maryland,1
+1429,Utah St,1268,Maryland,0
+1301,NC State,1268,Maryland,0
+1268,Maryland,1158,Col Charleston,1
+1268,Maryland,1202,Furman,1
+1364,UC Santa Barbara,1268,Maryland,1
+1343,Princeton,1268,Maryland,0
+1369,SE Missouri St,1268,Maryland,0
+1394,TAM C. Christi,1268,Maryland,0
+1268,Maryland,1222,Houston,0
+1400,Texas,1268,Maryland,1
+1462,Xavier,1268,Maryland,1
+1268,Maryland,1231,Indiana,1
+1274,Miami FL,1268,Maryland,1
+1268,Maryland,1235,Iowa St,0
+1401,Texas A&M,1268,Maryland,1
+1268,Maryland,1234,Iowa,0
+1268,Maryland,1120,Auburn,1
+1336,Penn St,1268,Maryland,0
+1280,Mississippi St,1268,Maryland,0
+1338,Pittsburgh,1268,Maryland,0
+1268,Maryland,1179,Drake,0
+1268,Maryland,1245,Kent,0
+1268,Maryland,1244,Kennesaw,1
+1268,Maryland,1159,Colgate,1
+1297,N Kentucky,1268,Maryland,0
+1268,Maryland,1242,Kansas,0
+1417,UCLA,1268,Maryland,1
+1268,Maryland,1211,Gonzaga,0
+1268,Maryland,1163,Connecticut,0
+1388,St Mary's CA,1268,Maryland,0
+1395,TCU,1268,Maryland,0
+1321,Northwestern,1268,Maryland,0
+1268,Maryland,1116,Arkansas,1
+1268,Maryland,1228,Illinois,1
+1268,Maryland,1129,Boise St,1
+1268,Maryland,1113,Arizona St,1
+1305,Nevada,1268,Maryland,0
+1433,VCU,1268,Maryland,0
+1268,Maryland,1233,Iona,0
+1268,Maryland,1213,Grand Canyon,1
+1421,UNC Asheville,1268,Maryland,1
+1268,Maryland,1224,Howard,1
+1452,West Virginia,1452,West Virginia,1
+1452,West Virginia,1429,Utah St,1
+1452,West Virginia,1301,NC State,1
+1452,West Virginia,1158,Col Charleston,1
+1452,West Virginia,1202,Furman,1
+1452,West Virginia,1364,UC Santa Barbara,1
+1452,West Virginia,1343,Princeton,1
+1452,West Virginia,1369,SE Missouri St,1
+1452,West Virginia,1394,TAM C. Christi,1
+1452,West Virginia,1222,Houston,1
+1452,West Virginia,1400,Texas,0
+1462,Xavier,1452,West Virginia,1
+1452,West Virginia,1231,Indiana,1
+1452,West Virginia,1274,Miami FL,1
+1452,West Virginia,1235,Iowa St,0
+1452,West Virginia,1401,Texas A&M,1
+1452,West Virginia,1234,Iowa,1
+1452,West Virginia,1120,Auburn,1
+1452,West Virginia,1336,Penn St,1
+1452,West Virginia,1280,Mississippi St,1
+1452,West Virginia,1338,Pittsburgh,1
+1452,West Virginia,1179,Drake,1
+1452,West Virginia,1245,Kent,0
+1452,West Virginia,1244,Kennesaw,1
+1452,West Virginia,1159,Colgate,1
+1452,West Virginia,1297,N Kentucky,1
+1452,West Virginia,1242,Kansas,1
+1452,West Virginia,1417,UCLA,0
+1452,West Virginia,1211,Gonzaga,1
+1452,West Virginia,1163,Connecticut,1
+1452,West Virginia,1388,St Mary's CA,1
+1452,West Virginia,1395,TCU,0
+1452,West Virginia,1321,Northwestern,1
+1452,West Virginia,1116,Arkansas,1
+1452,West Virginia,1228,Illinois,1
+1452,West Virginia,1129,Boise St,1
+1452,West Virginia,1113,Arizona St,1
+1452,West Virginia,1305,Nevada,0
+1452,West Virginia,1433,VCU,0
+1452,West Virginia,1233,Iona,1
+1452,West Virginia,1213,Grand Canyon,1
+1452,West Virginia,1421,UNC Asheville,1
+1452,West Virginia,1224,Howard,1
+1429,Utah St,1429,Utah St,0
+1429,Utah St,1301,NC State,1
+1429,Utah St,1158,Col Charleston,1
+1429,Utah St,1202,Furman,1
+1429,Utah St,1364,UC Santa Barbara,1
+1429,Utah St,1343,Princeton,0
+1429,Utah St,1369,SE Missouri St,1
+1429,Utah St,1394,TAM C. Christi,1
+1429,Utah St,1222,Houston,0
+1429,Utah St,1400,Texas,0
+1462,Xavier,1429,Utah St,1
+1429,Utah St,1231,Indiana,0
+1429,Utah St,1274,Miami FL,0
+1429,Utah St,1235,Iowa St,0
+1429,Utah St,1401,Texas A&M,1
+1429,Utah St,1234,Iowa,0
+1429,Utah St,1120,Auburn,0
+1429,Utah St,1336,Penn St,0
+1429,Utah St,1280,Mississippi St,1
+1429,Utah St,1338,Pittsburgh,1
+1429,Utah St,1179,Drake,0
+1429,Utah St,1245,Kent,0
+1429,Utah St,1244,Kennesaw,0
+1429,Utah St,1159,Colgate,1
+1429,Utah St,1297,N Kentucky,1
+1429,Utah St,1242,Kansas,0
+1429,Utah St,1417,UCLA,0
+1429,Utah St,1211,Gonzaga,0
+1429,Utah St,1163,Connecticut,0
+1429,Utah St,1388,St Mary's CA,0
+1429,Utah St,1395,TCU,0
+1429,Utah St,1321,Northwestern,1
+1429,Utah St,1116,Arkansas,1
+1429,Utah St,1228,Illinois,1
+1429,Utah St,1129,Boise St,1
+1429,Utah St,1113,Arizona St,1
+1429,Utah St,1305,Nevada,0
+1433,VCU,1429,Utah St,0
+1429,Utah St,1233,Iona,1
+1429,Utah St,1213,Grand Canyon,1
+1429,Utah St,1421,UNC Asheville,1
+1429,Utah St,1224,Howard,0
+1301,NC State,1301,NC State,1
+1301,NC State,1158,Col Charleston,1
+1301,NC State,1202,Furman,1
+1364,UC Santa Barbara,1301,NC State,1
+1343,Princeton,1301,NC State,0
+1369,SE Missouri St,1301,NC State,0
+1394,TAM C. Christi,1301,NC State,0
+1301,NC State,1222,Houston,0
+1400,Texas,1301,NC State,1
+1462,Xavier,1301,NC State,1
+1301,NC State,1231,Indiana,1
+1301,NC State,1274,Miami FL,0
+1301,NC State,1235,Iowa St,0
+1401,Texas A&M,1301,NC State,1
+1301,NC State,1234,Iowa,0
+1301,NC State,1120,Auburn,0
+1336,Penn St,1301,NC State,0
+1301,NC State,1280,Mississippi St,1
+1338,Pittsburgh,1301,NC State,1
+1301,NC State,1179,Drake,0
+1301,NC State,1245,Kent,0
+1301,NC State,1244,Kennesaw,1
+1301,NC State,1159,Colgate,1
+1301,NC State,1297,N Kentucky,1
+1301,NC State,1242,Kansas,0
+1417,UCLA,1301,NC State,1
+1301,NC State,1211,Gonzaga,0
+1301,NC State,1163,Connecticut,0
+1388,St Mary's CA,1301,NC State,1
+1395,TCU,1301,NC State,1
+1321,Northwestern,1301,NC State,1
+1301,NC State,1116,Arkansas,1
+1301,NC State,1228,Illinois,1
+1301,NC State,1129,Boise St,1
+1301,NC State,1113,Arizona St,1
+1305,Nevada,1301,NC State,1
+1433,VCU,1301,NC State,1
+1301,NC State,1233,Iona,0
+1301,NC State,1213,Grand Canyon,1
+1421,UNC Asheville,1301,NC State,1
+1301,NC State,1224,Howard,1
+1158,Col Charleston,1158,Col Charleston,0
+1202,Furman,1158,Col Charleston,0
+1364,UC Santa Barbara,1158,Col Charleston,1
+1343,Princeton,1158,Col Charleston,0
+1369,SE Missouri St,1158,Col Charleston,0
+1394,TAM C. Christi,1158,Col Charleston,0
+1222,Houston,1158,Col Charleston,1
+1400,Texas,1158,Col Charleston,1
+1462,Xavier,1158,Col Charleston,1
+1231,Indiana,1158,Col Charleston,1
+1274,Miami FL,1158,Col Charleston,1
+1235,Iowa St,1158,Col Charleston,0
+1401,Texas A&M,1158,Col Charleston,1
+1234,Iowa,1158,Col Charleston,1
+1158,Col Charleston,1120,Auburn,0
+1336,Penn St,1158,Col Charleston,0
+1280,Mississippi St,1158,Col Charleston,1
+1338,Pittsburgh,1158,Col Charleston,1
+1179,Drake,1158,Col Charleston,1
+1245,Kent,1158,Col Charleston,0
+1244,Kennesaw,1158,Col Charleston,0
+1159,Colgate,1158,Col Charleston,0
+1297,N Kentucky,1158,Col Charleston,0
+1242,Kansas,1158,Col Charleston,1
+1417,UCLA,1158,Col Charleston,1
+1211,Gonzaga,1158,Col Charleston,1
+1163,Connecticut,1158,Col Charleston,1
+1388,St Mary's CA,1158,Col Charleston,1
+1395,TCU,1158,Col Charleston,1
+1321,Northwestern,1158,Col Charleston,1
+1158,Col Charleston,1116,Arkansas,0
+1228,Illinois,1158,Col Charleston,1
+1158,Col Charleston,1129,Boise St,0
+1158,Col Charleston,1113,Arizona St,0
+1305,Nevada,1158,Col Charleston,1
+1433,VCU,1158,Col Charleston,1
+1233,Iona,1158,Col Charleston,0
+1213,Grand Canyon,1158,Col Charleston,0
+1421,UNC Asheville,1158,Col Charleston,1
+1224,Howard,1158,Col Charleston,0
+1202,Furman,1202,Furman,1
+1364,UC Santa Barbara,1202,Furman,1
+1343,Princeton,1202,Furman,0
+1369,SE Missouri St,1202,Furman,0
+1394,TAM C. Christi,1202,Furman,0
+1222,Houston,1202,Furman,1
+1400,Texas,1202,Furman,1
+1462,Xavier,1202,Furman,1
+1231,Indiana,1202,Furman,1
+1274,Miami FL,1202,Furman,1
+1235,Iowa St,1202,Furman,1
+1401,Texas A&M,1202,Furman,1
+1234,Iowa,1202,Furman,1
+1202,Furman,1120,Auburn,0
+1336,Penn St,1202,Furman,1
+1280,Mississippi St,1202,Furman,1
+1338,Pittsburgh,1202,Furman,1
+1202,Furman,1179,Drake,0
+1245,Kent,1202,Furman,1
+1244,Kennesaw,1202,Furman,0
+1202,Furman,1159,Colgate,0
+1297,N Kentucky,1202,Furman,0
+1242,Kansas,1202,Furman,1
+1417,UCLA,1202,Furman,1
+1211,Gonzaga,1202,Furman,1
+1202,Furman,1163,Connecticut,0
+1388,St Mary's CA,1202,Furman,1
+1395,TCU,1202,Furman,1
+1321,Northwestern,1202,Furman,1
+1202,Furman,1116,Arkansas,0
+1228,Illinois,1202,Furman,1
+1202,Furman,1129,Boise St,1
+1202,Furman,1113,Arizona St,1
+1305,Nevada,1202,Furman,1
+1433,VCU,1202,Furman,1
+1233,Iona,1202,Furman,1
+1213,Grand Canyon,1202,Furman,1
+1421,UNC Asheville,1202,Furman,1
+1224,Howard,1202,Furman,0
+1364,UC Santa Barbara,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1343,Princeton,1
+1369,SE Missouri St,1364,UC Santa Barbara,0
+1394,TAM C. Christi,1364,UC Santa Barbara,0
+1364,UC Santa Barbara,1222,Houston,0
+1400,Texas,1364,UC Santa Barbara,1
+1462,Xavier,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1231,Indiana,1
+1364,UC Santa Barbara,1274,Miami FL,1
+1364,UC Santa Barbara,1235,Iowa St,1
+1401,Texas A&M,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1234,Iowa,1
+1364,UC Santa Barbara,1120,Auburn,1
+1364,UC Santa Barbara,1336,Penn St,1
+1364,UC Santa Barbara,1280,Mississippi St,1
+1364,UC Santa Barbara,1338,Pittsburgh,1
+1364,UC Santa Barbara,1179,Drake,1
+1364,UC Santa Barbara,1245,Kent,1
+1364,UC Santa Barbara,1244,Kennesaw,1
+1364,UC Santa Barbara,1159,Colgate,1
+1364,UC Santa Barbara,1297,N Kentucky,1
+1364,UC Santa Barbara,1242,Kansas,0
+1417,UCLA,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1211,Gonzaga,1
+1364,UC Santa Barbara,1163,Connecticut,1
+1388,St Mary's CA,1364,UC Santa Barbara,1
+1395,TCU,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1321,Northwestern,1
+1364,UC Santa Barbara,1116,Arkansas,1
+1364,UC Santa Barbara,1228,Illinois,1
+1364,UC Santa Barbara,1129,Boise St,1
+1364,UC Santa Barbara,1113,Arizona St,1
+1364,UC Santa Barbara,1305,Nevada,1
+1433,VCU,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1233,Iona,1
+1364,UC Santa Barbara,1213,Grand Canyon,1
+1421,UNC Asheville,1364,UC Santa Barbara,1
+1364,UC Santa Barbara,1224,Howard,1
+1343,Princeton,1343,Princeton,0
+1369,SE Missouri St,1343,Princeton,0
+1394,TAM C. Christi,1343,Princeton,0
+1343,Princeton,1222,Houston,0
+1400,Texas,1343,Princeton,1
+1462,Xavier,1343,Princeton,1
+1343,Princeton,1231,Indiana,0
+1343,Princeton,1274,Miami FL,0
+1343,Princeton,1235,Iowa St,0
+1401,Texas A&M,1343,Princeton,1
+1343,Princeton,1234,Iowa,0
+1343,Princeton,1120,Auburn,0
+1343,Princeton,1336,Penn St,0
+1343,Princeton,1280,Mississippi St,0
+1343,Princeton,1338,Pittsburgh,0
+1343,Princeton,1179,Drake,0
+1343,Princeton,1245,Kent,0
+1343,Princeton,1244,Kennesaw,0
+1343,Princeton,1159,Colgate,0
+1343,Princeton,1297,N Kentucky,1
+1343,Princeton,1242,Kansas,0
+1417,UCLA,1343,Princeton,1
+1343,Princeton,1211,Gonzaga,0
+1343,Princeton,1163,Connecticut,0
+1388,St Mary's CA,1343,Princeton,1
+1395,TCU,1343,Princeton,1
+1343,Princeton,1321,Northwestern,0
+1343,Princeton,1116,Arkansas,0
+1343,Princeton,1228,Illinois,0
+1343,Princeton,1129,Boise St,0
+1343,Princeton,1113,Arizona St,0
+1343,Princeton,1305,Nevada,0
+1433,VCU,1343,Princeton,1
+1343,Princeton,1233,Iona,0
+1343,Princeton,1213,Grand Canyon,0
+1421,UNC Asheville,1343,Princeton,1
+1343,Princeton,1224,Howard,0
+1369,SE Missouri St,1369,SE Missouri St,1
+1394,TAM C. Christi,1369,SE Missouri St,0
+1369,SE Missouri St,1222,Houston,0
+1400,Texas,1369,SE Missouri St,1
+1462,Xavier,1369,SE Missouri St,1
+1369,SE Missouri St,1231,Indiana,0
+1369,SE Missouri St,1274,Miami FL,0
+1369,SE Missouri St,1235,Iowa St,0
+1401,Texas A&M,1369,SE Missouri St,1
+1369,SE Missouri St,1234,Iowa,0
+1369,SE Missouri St,1120,Auburn,0
+1369,SE Missouri St,1336,Penn St,0
+1369,SE Missouri St,1280,Mississippi St,0
+1369,SE Missouri St,1338,Pittsburgh,0
+1369,SE Missouri St,1179,Drake,0
+1369,SE Missouri St,1245,Kent,0
+1369,SE Missouri St,1244,Kennesaw,0
+1369,SE Missouri St,1159,Colgate,0
+1369,SE Missouri St,1297,N Kentucky,1
+1369,SE Missouri St,1242,Kansas,0
+1417,UCLA,1369,SE Missouri St,1
+1369,SE Missouri St,1211,Gonzaga,0
+1369,SE Missouri St,1163,Connecticut,0
+1388,St Mary's CA,1369,SE Missouri St,1
+1395,TCU,1369,SE Missouri St,1
+1369,SE Missouri St,1321,Northwestern,0
+1369,SE Missouri St,1116,Arkansas,0
+1369,SE Missouri St,1228,Illinois,0
+1369,SE Missouri St,1129,Boise St,0
+1369,SE Missouri St,1113,Arizona St,0
+1369,SE Missouri St,1305,Nevada,0
+1433,VCU,1369,SE Missouri St,1
+1369,SE Missouri St,1233,Iona,0
+1369,SE Missouri St,1213,Grand Canyon,0
+1421,UNC Asheville,1369,SE Missouri St,1
+1369,SE Missouri St,1224,Howard,0
+1394,TAM C. Christi,1394,TAM C. Christi,0
+1394,TAM C. Christi,1222,Houston,0
+1400,Texas,1394,TAM C. Christi,1
+1462,Xavier,1394,TAM C. Christi,1
+1394,TAM C. Christi,1231,Indiana,0
+1394,TAM C. Christi,1274,Miami FL,0
+1394,TAM C. Christi,1235,Iowa St,0
+1401,Texas A&M,1394,TAM C. Christi,1
+1394,TAM C. Christi,1234,Iowa,0
+1394,TAM C. Christi,1120,Auburn,0
+1394,TAM C. Christi,1336,Penn St,0
+1394,TAM C. Christi,1280,Mississippi St,0
+1394,TAM C. Christi,1338,Pittsburgh,0
+1394,TAM C. Christi,1179,Drake,0
+1394,TAM C. Christi,1245,Kent,0
+1394,TAM C. Christi,1244,Kennesaw,0
+1394,TAM C. Christi,1159,Colgate,0
+1394,TAM C. Christi,1297,N Kentucky,0
+1394,TAM C. Christi,1242,Kansas,0
+1417,UCLA,1394,TAM C. Christi,1
+1394,TAM C. Christi,1211,Gonzaga,0
+1394,TAM C. Christi,1163,Connecticut,0
+1394,TAM C. Christi,1388,St Mary's CA,0
+1395,TCU,1394,TAM C. Christi,1
+1394,TAM C. Christi,1321,Northwestern,0
+1394,TAM C. Christi,1116,Arkansas,0
+1394,TAM C. Christi,1228,Illinois,0
+1394,TAM C. Christi,1129,Boise St,0
+1394,TAM C. Christi,1113,Arizona St,0
+1394,TAM C. Christi,1305,Nevada,0
+1433,VCU,1394,TAM C. Christi,1
+1394,TAM C. Christi,1233,Iona,0
+1394,TAM C. Christi,1213,Grand Canyon,0
+1421,UNC Asheville,1394,TAM C. Christi,1
+1394,TAM C. Christi,1224,Howard,0
+1222,Houston,1222,Houston,1
+1400,Texas,1222,Houston,1
+1462,Xavier,1222,Houston,1
+1231,Indiana,1222,Houston,0
+1274,Miami FL,1222,Houston,1
+1235,Iowa St,1222,Houston,0
+1401,Texas A&M,1222,Houston,1
+1234,Iowa,1222,Houston,0
+1222,Houston,1120,Auburn,1
+1336,Penn St,1222,Houston,0
+1280,Mississippi St,1222,Houston,0
+1338,Pittsburgh,1222,Houston,0
+1222,Houston,1179,Drake,1
+1245,Kent,1222,Houston,0
+1244,Kennesaw,1222,Houston,0
+1222,Houston,1159,Colgate,1
+1297,N Kentucky,1222,Houston,0
+1242,Kansas,1222,Houston,1
+1417,UCLA,1222,Houston,1
+1222,Houston,1211,Gonzaga,1
+1222,Houston,1163,Connecticut,1
+1388,St Mary's CA,1222,Houston,1
+1395,TCU,1222,Houston,1
+1321,Northwestern,1222,Houston,0
+1222,Houston,1116,Arkansas,1
+1228,Illinois,1222,Houston,0
+1222,Houston,1129,Boise St,1
+1222,Houston,1113,Arizona St,1
+1305,Nevada,1222,Houston,0
+1433,VCU,1222,Houston,0
+1233,Iona,1222,Houston,0
+1222,Houston,1213,Grand Canyon,1
+1421,UNC Asheville,1222,Houston,0
+1224,Howard,1222,Houston,0
+1400,Texas,1400,Texas,1
+1462,Xavier,1400,Texas,0
+1400,Texas,1231,Indiana,1
+1400,Texas,1274,Miami FL,1
+1400,Texas,1235,Iowa St,1
+1401,Texas A&M,1400,Texas,1
+1400,Texas,1234,Iowa,1
+1400,Texas,1120,Auburn,1
+1400,Texas,1336,Penn St,1
+1400,Texas,1280,Mississippi St,1
+1400,Texas,1338,Pittsburgh,1
+1400,Texas,1179,Drake,1
+1400,Texas,1245,Kent,1
+1400,Texas,1244,Kennesaw,1
+1400,Texas,1159,Colgate,1
+1400,Texas,1297,N Kentucky,1
+1400,Texas,1242,Kansas,1
+1417,UCLA,1400,Texas,1
+1400,Texas,1211,Gonzaga,1
+1400,Texas,1163,Connecticut,1
+1400,Texas,1388,St Mary's CA,1
+1400,Texas,1395,TCU,1
+1400,Texas,1321,Northwestern,1
+1400,Texas,1116,Arkansas,1
+1400,Texas,1228,Illinois,1
+1400,Texas,1129,Boise St,1
+1400,Texas,1113,Arizona St,1
+1400,Texas,1305,Nevada,1
+1433,VCU,1400,Texas,0
+1400,Texas,1233,Iona,1
+1400,Texas,1213,Grand Canyon,1
+1421,UNC Asheville,1400,Texas,0
+1400,Texas,1224,Howard,1
+1462,Xavier,1462,Xavier,1
+1462,Xavier,1231,Indiana,1
+1462,Xavier,1274,Miami FL,1
+1462,Xavier,1235,Iowa St,0
+1462,Xavier,1401,Texas A&M,1
+1462,Xavier,1234,Iowa,1
+1462,Xavier,1120,Auburn,1
+1462,Xavier,1336,Penn St,1
+1462,Xavier,1280,Mississippi St,1
+1462,Xavier,1338,Pittsburgh,1
+1462,Xavier,1179,Drake,1
+1462,Xavier,1245,Kent,0
+1462,Xavier,1244,Kennesaw,1
+1462,Xavier,1159,Colgate,1
+1462,Xavier,1297,N Kentucky,1
+1462,Xavier,1242,Kansas,1
+1462,Xavier,1417,UCLA,0
+1462,Xavier,1211,Gonzaga,1
+1462,Xavier,1163,Connecticut,1
+1462,Xavier,1388,St Mary's CA,1
+1462,Xavier,1395,TCU,0
+1462,Xavier,1321,Northwestern,1
+1462,Xavier,1116,Arkansas,1
+1462,Xavier,1228,Illinois,1
+1462,Xavier,1129,Boise St,1
+1462,Xavier,1113,Arizona St,1
+1462,Xavier,1305,Nevada,1
+1462,Xavier,1433,VCU,1
+1462,Xavier,1233,Iona,1
+1462,Xavier,1213,Grand Canyon,1
+1462,Xavier,1421,UNC Asheville,1
+1462,Xavier,1224,Howard,1
+1231,Indiana,1231,Indiana,0
+1274,Miami FL,1231,Indiana,1
+1235,Iowa St,1231,Indiana,0
+1401,Texas A&M,1231,Indiana,1
+1234,Iowa,1231,Indiana,0
+1231,Indiana,1120,Auburn,0
+1336,Penn St,1231,Indiana,0
+1280,Mississippi St,1231,Indiana,0
+1338,Pittsburgh,1231,Indiana,0
+1231,Indiana,1179,Drake,0
+1245,Kent,1231,Indiana,0
+1244,Kennesaw,1231,Indiana,0
+1231,Indiana,1159,Colgate,0
+1297,N Kentucky,1231,Indiana,0
+1242,Kansas,1231,Indiana,1
+1417,UCLA,1231,Indiana,1
+1231,Indiana,1211,Gonzaga,0
+1231,Indiana,1163,Connecticut,0
+1388,St Mary's CA,1231,Indiana,1
+1395,TCU,1231,Indiana,1
+1321,Northwestern,1231,Indiana,1
+1231,Indiana,1116,Arkansas,1
+1231,Indiana,1228,Illinois,1
+1231,Indiana,1129,Boise St,1
+1231,Indiana,1113,Arizona St,1
+1305,Nevada,1231,Indiana,1
+1433,VCU,1231,Indiana,1
+1233,Iona,1231,Indiana,0
+1231,Indiana,1213,Grand Canyon,1
+1421,UNC Asheville,1231,Indiana,1
+1231,Indiana,1224,Howard,0
+1274,Miami FL,1274,Miami FL,1
+1274,Miami FL,1235,Iowa St,1
+1401,Texas A&M,1274,Miami FL,1
+1274,Miami FL,1234,Iowa,1
+1274,Miami FL,1120,Auburn,1
+1336,Penn St,1274,Miami FL,0
+1280,Mississippi St,1274,Miami FL,0
+1338,Pittsburgh,1274,Miami FL,0
+1274,Miami FL,1179,Drake,1
+1274,Miami FL,1245,Kent,1
+1274,Miami FL,1244,Kennesaw,1
+1274,Miami FL,1159,Colgate,1
+1297,N Kentucky,1274,Miami FL,0
+1274,Miami FL,1242,Kansas,1
+1417,UCLA,1274,Miami FL,1
+1274,Miami FL,1211,Gonzaga,1
+1274,Miami FL,1163,Connecticut,1
+1388,St Mary's CA,1274,Miami FL,0
+1395,TCU,1274,Miami FL,0
+1321,Northwestern,1274,Miami FL,0
+1274,Miami FL,1116,Arkansas,1
+1274,Miami FL,1228,Illinois,1
+1274,Miami FL,1129,Boise St,1
+1274,Miami FL,1113,Arizona St,1
+1305,Nevada,1274,Miami FL,0
+1433,VCU,1274,Miami FL,0
+1274,Miami FL,1233,Iona,1
+1274,Miami FL,1213,Grand Canyon,1
+1421,UNC Asheville,1274,Miami FL,1
+1274,Miami FL,1224,Howard,1
+1235,Iowa St,1235,Iowa St,0
+1401,Texas A&M,1235,Iowa St,0
+1235,Iowa St,1234,Iowa,0
+1235,Iowa St,1120,Auburn,0
+1336,Penn St,1235,Iowa St,0
+1280,Mississippi St,1235,Iowa St,0
+1338,Pittsburgh,1235,Iowa St,0
+1235,Iowa St,1179,Drake,0
+1245,Kent,1235,Iowa St,0
+1244,Kennesaw,1235,Iowa St,0
+1235,Iowa St,1159,Colgate,0
+1297,N Kentucky,1235,Iowa St,0
+1242,Kansas,1235,Iowa St,1
+1417,UCLA,1235,Iowa St,1
+1235,Iowa St,1211,Gonzaga,0
+1235,Iowa St,1163,Connecticut,0
+1388,St Mary's CA,1235,Iowa St,0
+1395,TCU,1235,Iowa St,0
+1321,Northwestern,1235,Iowa St,0
+1235,Iowa St,1116,Arkansas,0
+1235,Iowa St,1228,Illinois,0
+1235,Iowa St,1129,Boise St,1
+1235,Iowa St,1113,Arizona St,1
+1305,Nevada,1235,Iowa St,0
+1433,VCU,1235,Iowa St,0
+1235,Iowa St,1233,Iona,0
+1235,Iowa St,1213,Grand Canyon,1
+1421,UNC Asheville,1235,Iowa St,0
+1235,Iowa St,1224,Howard,0
+1401,Texas A&M,1401,Texas A&M,1
+1401,Texas A&M,1234,Iowa,1
+1401,Texas A&M,1120,Auburn,1
+1401,Texas A&M,1336,Penn St,1
+1401,Texas A&M,1280,Mississippi St,1
+1401,Texas A&M,1338,Pittsburgh,1
+1401,Texas A&M,1179,Drake,0
+1401,Texas A&M,1245,Kent,0
+1401,Texas A&M,1244,Kennesaw,1
+1401,Texas A&M,1159,Colgate,1
+1401,Texas A&M,1297,N Kentucky,1
+1401,Texas A&M,1242,Kansas,1
+1417,UCLA,1401,Texas A&M,1
+1401,Texas A&M,1211,Gonzaga,1
+1401,Texas A&M,1163,Connecticut,1
+1401,Texas A&M,1388,St Mary's CA,1
+1401,Texas A&M,1395,TCU,0
+1401,Texas A&M,1321,Northwestern,1
+1401,Texas A&M,1116,Arkansas,1
+1401,Texas A&M,1228,Illinois,1
+1401,Texas A&M,1129,Boise St,1
+1401,Texas A&M,1113,Arizona St,1
+1401,Texas A&M,1305,Nevada,0
+1433,VCU,1401,Texas A&M,1
+1401,Texas A&M,1233,Iona,1
+1401,Texas A&M,1213,Grand Canyon,1
+1421,UNC Asheville,1401,Texas A&M,1
+1401,Texas A&M,1224,Howard,1
+1234,Iowa,1234,Iowa,0
+1234,Iowa,1120,Auburn,0
+1336,Penn St,1234,Iowa,0
+1280,Mississippi St,1234,Iowa,0
+1338,Pittsburgh,1234,Iowa,0
+1234,Iowa,1179,Drake,0
+1245,Kent,1234,Iowa,0
+1244,Kennesaw,1234,Iowa,0
+1234,Iowa,1159,Colgate,1
+1297,N Kentucky,1234,Iowa,0
+1242,Kansas,1234,Iowa,1
+1417,UCLA,1234,Iowa,1
+1234,Iowa,1211,Gonzaga,0
+1234,Iowa,1163,Connecticut,0
+1388,St Mary's CA,1234,Iowa,1
+1395,TCU,1234,Iowa,1
+1321,Northwestern,1234,Iowa,0
+1234,Iowa,1116,Arkansas,1
+1234,Iowa,1228,Illinois,1
+1234,Iowa,1129,Boise St,1
+1234,Iowa,1113,Arizona St,1
+1305,Nevada,1234,Iowa,0
+1433,VCU,1234,Iowa,0
+1234,Iowa,1233,Iona,0
+1234,Iowa,1213,Grand Canyon,1
+1421,UNC Asheville,1234,Iowa,1
+1234,Iowa,1224,Howard,0
+1120,Auburn,1120,Auburn,1
+1336,Penn St,1120,Auburn,0
+1280,Mississippi St,1120,Auburn,0
+1338,Pittsburgh,1120,Auburn,0
+1179,Drake,1120,Auburn,1
+1245,Kent,1120,Auburn,0
+1244,Kennesaw,1120,Auburn,0
+1159,Colgate,1120,Auburn,0
+1297,N Kentucky,1120,Auburn,0
+1242,Kansas,1120,Auburn,1
+1417,UCLA,1120,Auburn,1
+1211,Gonzaga,1120,Auburn,1
+1163,Connecticut,1120,Auburn,1
+1388,St Mary's CA,1120,Auburn,1
+1395,TCU,1120,Auburn,1
+1321,Northwestern,1120,Auburn,0
+1120,Auburn,1116,Arkansas,1
+1228,Illinois,1120,Auburn,0
+1129,Boise St,1120,Auburn,1
+1120,Auburn,1113,Arizona St,1
+1305,Nevada,1120,Auburn,1
+1433,VCU,1120,Auburn,0
+1233,Iona,1120,Auburn,0
+1213,Grand Canyon,1120,Auburn,0
+1421,UNC Asheville,1120,Auburn,1
+1224,Howard,1120,Auburn,0
+1336,Penn St,1336,Penn St,0
+1336,Penn St,1280,Mississippi St,1
+1338,Pittsburgh,1336,Penn St,1
+1336,Penn St,1179,Drake,0
+1336,Penn St,1245,Kent,0
+1336,Penn St,1244,Kennesaw,0
+1336,Penn St,1159,Colgate,0
+1336,Penn St,1297,N Kentucky,1
+1336,Penn St,1242,Kansas,0
+1417,UCLA,1336,Penn St,1
+1336,Penn St,1211,Gonzaga,0
+1336,Penn St,1163,Connecticut,0
+1388,St Mary's CA,1336,Penn St,1
+1395,TCU,1336,Penn St,1
+1336,Penn St,1321,Northwestern,0
+1336,Penn St,1116,Arkansas,1
+1336,Penn St,1228,Illinois,1
+1336,Penn St,1129,Boise St,1
+1336,Penn St,1113,Arizona St,1
+1336,Penn St,1305,Nevada,0
+1433,VCU,1336,Penn St,1
+1336,Penn St,1233,Iona,0
+1336,Penn St,1213,Grand Canyon,1
+1421,UNC Asheville,1336,Penn St,1
+1336,Penn St,1224,Howard,0
+1280,Mississippi St,1280,Mississippi St,1
+1338,Pittsburgh,1280,Mississippi St,1
+1280,Mississippi St,1179,Drake,0
+1280,Mississippi St,1245,Kent,0
+1280,Mississippi St,1244,Kennesaw,0
+1280,Mississippi St,1159,Colgate,1
+1297,N Kentucky,1280,Mississippi St,0
+1280,Mississippi St,1242,Kansas,0
+1417,UCLA,1280,Mississippi St,1
+1280,Mississippi St,1211,Gonzaga,0
+1280,Mississippi St,1163,Connecticut,0
+1388,St Mary's CA,1280,Mississippi St,1
+1395,TCU,1280,Mississippi St,1
+1321,Northwestern,1280,Mississippi St,1
+1280,Mississippi St,1116,Arkansas,1
+1280,Mississippi St,1228,Illinois,1
+1280,Mississippi St,1129,Boise St,1
+1280,Mississippi St,1113,Arizona St,1
+1305,Nevada,1280,Mississippi St,1
+1433,VCU,1280,Mississippi St,1
+1280,Mississippi St,1233,Iona,0
+1280,Mississippi St,1213,Grand Canyon,1
+1421,UNC Asheville,1280,Mississippi St,1
+1280,Mississippi St,1224,Howard,0
+1338,Pittsburgh,1338,Pittsburgh,1
+1338,Pittsburgh,1179,Drake,0
+1338,Pittsburgh,1245,Kent,0
+1338,Pittsburgh,1244,Kennesaw,0
+1338,Pittsburgh,1159,Colgate,1
+1338,Pittsburgh,1297,N Kentucky,1
+1338,Pittsburgh,1242,Kansas,0
+1417,UCLA,1338,Pittsburgh,1
+1338,Pittsburgh,1211,Gonzaga,0
+1338,Pittsburgh,1163,Connecticut,0
+1388,St Mary's CA,1338,Pittsburgh,1
+1395,TCU,1338,Pittsburgh,1
+1338,Pittsburgh,1321,Northwestern,1
+1338,Pittsburgh,1116,Arkansas,1
+1338,Pittsburgh,1228,Illinois,1
+1338,Pittsburgh,1129,Boise St,1
+1338,Pittsburgh,1113,Arizona St,1
+1338,Pittsburgh,1305,Nevada,0
+1433,VCU,1338,Pittsburgh,1
+1338,Pittsburgh,1233,Iona,0
+1338,Pittsburgh,1213,Grand Canyon,1
+1421,UNC Asheville,1338,Pittsburgh,1
+1338,Pittsburgh,1224,Howard,0
+1179,Drake,1179,Drake,0
+1245,Kent,1179,Drake,0
+1244,Kennesaw,1179,Drake,0
+1179,Drake,1159,Colgate,1
+1297,N Kentucky,1179,Drake,0
+1242,Kansas,1179,Drake,1
+1417,UCLA,1179,Drake,1
+1211,Gonzaga,1179,Drake,0
+1179,Drake,1163,Connecticut,0
+1388,St Mary's CA,1179,Drake,1
+1395,TCU,1179,Drake,0
+1321,Northwestern,1179,Drake,1
+1179,Drake,1116,Arkansas,1
+1228,Illinois,1179,Drake,0
+1179,Drake,1129,Boise St,1
+1179,Drake,1113,Arizona St,1
+1305,Nevada,1179,Drake,0
+1433,VCU,1179,Drake,0
+1233,Iona,1179,Drake,0
+1213,Grand Canyon,1179,Drake,0
+1421,UNC Asheville,1179,Drake,1
+1224,Howard,1179,Drake,0
+1245,Kent,1245,Kent,0
+1245,Kent,1244,Kennesaw,0
+1245,Kent,1159,Colgate,1
+1297,N Kentucky,1245,Kent,0
+1245,Kent,1242,Kansas,0
+1417,UCLA,1245,Kent,0
+1245,Kent,1211,Gonzaga,0
+1245,Kent,1163,Connecticut,0
+1388,St Mary's CA,1245,Kent,0
+1395,TCU,1245,Kent,0
+1321,Northwestern,1245,Kent,0
+1245,Kent,1116,Arkansas,1
+1245,Kent,1228,Illinois,1
+1245,Kent,1129,Boise St,0
+1245,Kent,1113,Arizona St,1
+1305,Nevada,1245,Kent,0
+1433,VCU,1245,Kent,0
+1245,Kent,1233,Iona,0
+1245,Kent,1213,Grand Canyon,1
+1421,UNC Asheville,1245,Kent,1
+1245,Kent,1224,Howard,0
+1244,Kennesaw,1244,Kennesaw,0
+1244,Kennesaw,1159,Colgate,0
+1297,N Kentucky,1244,Kennesaw,0
+1244,Kennesaw,1242,Kansas,0
+1417,UCLA,1244,Kennesaw,1
+1244,Kennesaw,1211,Gonzaga,0
+1244,Kennesaw,1163,Connecticut,0
+1388,St Mary's CA,1244,Kennesaw,1
+1395,TCU,1244,Kennesaw,1
+1321,Northwestern,1244,Kennesaw,1
+1244,Kennesaw,1116,Arkansas,0
+1244,Kennesaw,1228,Illinois,0
+1244,Kennesaw,1129,Boise St,0
+1244,Kennesaw,1113,Arizona St,0
+1305,Nevada,1244,Kennesaw,0
+1433,VCU,1244,Kennesaw,0
+1244,Kennesaw,1233,Iona,0
+1244,Kennesaw,1213,Grand Canyon,0
+1421,UNC Asheville,1244,Kennesaw,1
+1244,Kennesaw,1224,Howard,0
+1159,Colgate,1159,Colgate,0
+1297,N Kentucky,1159,Colgate,0
+1242,Kansas,1159,Colgate,1
+1417,UCLA,1159,Colgate,1
+1211,Gonzaga,1159,Colgate,1
+1163,Connecticut,1159,Colgate,1
+1388,St Mary's CA,1159,Colgate,1
+1395,TCU,1159,Colgate,1
+1321,Northwestern,1159,Colgate,1
+1159,Colgate,1116,Arkansas,0
+1228,Illinois,1159,Colgate,0
+1159,Colgate,1129,Boise St,0
+1159,Colgate,1113,Arizona St,0
+1305,Nevada,1159,Colgate,1
+1433,VCU,1159,Colgate,1
+1233,Iona,1159,Colgate,0
+1213,Grand Canyon,1159,Colgate,0
+1421,UNC Asheville,1159,Colgate,1
+1224,Howard,1159,Colgate,0
+1297,N Kentucky,1297,N Kentucky,1
+1297,N Kentucky,1242,Kansas,0
+1417,UCLA,1297,N Kentucky,1
+1297,N Kentucky,1211,Gonzaga,0
+1297,N Kentucky,1163,Connecticut,0
+1388,St Mary's CA,1297,N Kentucky,1
+1395,TCU,1297,N Kentucky,1
+1321,Northwestern,1297,N Kentucky,1
+1297,N Kentucky,1116,Arkansas,0
+1297,N Kentucky,1228,Illinois,0
+1297,N Kentucky,1129,Boise St,0
+1297,N Kentucky,1113,Arizona St,0
+1305,Nevada,1297,N Kentucky,1
+1433,VCU,1297,N Kentucky,1
+1297,N Kentucky,1233,Iona,0
+1297,N Kentucky,1213,Grand Canyon,0
+1421,UNC Asheville,1297,N Kentucky,1
+1297,N Kentucky,1224,Howard,0
+1242,Kansas,1242,Kansas,1
+1417,UCLA,1242,Kansas,1
+1242,Kansas,1211,Gonzaga,1
+1242,Kansas,1163,Connecticut,1
+1388,St Mary's CA,1242,Kansas,0
+1395,TCU,1242,Kansas,0
+1321,Northwestern,1242,Kansas,0
+1242,Kansas,1116,Arkansas,1
+1242,Kansas,1228,Illinois,1
+1242,Kansas,1129,Boise St,1
+1242,Kansas,1113,Arizona St,1
+1305,Nevada,1242,Kansas,0
+1433,VCU,1242,Kansas,0
+1242,Kansas,1233,Iona,1
+1242,Kansas,1213,Grand Canyon,1
+1421,UNC Asheville,1242,Kansas,1
+1242,Kansas,1224,Howard,1
+1417,UCLA,1417,UCLA,0
+1417,UCLA,1211,Gonzaga,1
+1417,UCLA,1163,Connecticut,1
+1417,UCLA,1388,St Mary's CA,1
+1417,UCLA,1395,TCU,0
+1417,UCLA,1321,Northwestern,1
+1417,UCLA,1116,Arkansas,1
+1417,UCLA,1228,Illinois,1
+1417,UCLA,1129,Boise St,1
+1417,UCLA,1113,Arizona St,1
+1417,UCLA,1305,Nevada,0
+1433,VCU,1417,UCLA,0
+1417,UCLA,1233,Iona,1
+1417,UCLA,1213,Grand Canyon,1
+1421,UNC Asheville,1417,UCLA,0
+1417,UCLA,1224,Howard,1
+1211,Gonzaga,1211,Gonzaga,1
+1211,Gonzaga,1163,Connecticut,0
+1388,St Mary's CA,1211,Gonzaga,1
+1395,TCU,1211,Gonzaga,1
+1321,Northwestern,1211,Gonzaga,0
+1211,Gonzaga,1116,Arkansas,1
+1228,Illinois,1211,Gonzaga,0
+1211,Gonzaga,1129,Boise St,1
+1211,Gonzaga,1113,Arizona St,1
+1305,Nevada,1211,Gonzaga,1
+1433,VCU,1211,Gonzaga,0
+1233,Iona,1211,Gonzaga,0
+1213,Grand Canyon,1211,Gonzaga,0
+1421,UNC Asheville,1211,Gonzaga,1
+1224,Howard,1211,Gonzaga,0
+1163,Connecticut,1163,Connecticut,1
+1388,St Mary's CA,1163,Connecticut,0
+1395,TCU,1163,Connecticut,0
+1321,Northwestern,1163,Connecticut,0
+1163,Connecticut,1116,Arkansas,1
+1228,Illinois,1163,Connecticut,0
+1163,Connecticut,1129,Boise St,1
+1163,Connecticut,1113,Arizona St,1
+1305,Nevada,1163,Connecticut,0
+1433,VCU,1163,Connecticut,0
+1233,Iona,1163,Connecticut,0
+1213,Grand Canyon,1163,Connecticut,0
+1421,UNC Asheville,1163,Connecticut,1
+1224,Howard,1163,Connecticut,0
+1388,St Mary's CA,1388,St Mary's CA,0
+1395,TCU,1388,St Mary's CA,0
+1388,St Mary's CA,1321,Northwestern,1
+1388,St Mary's CA,1116,Arkansas,1
+1388,St Mary's CA,1228,Illinois,1
+1388,St Mary's CA,1129,Boise St,1
+1388,St Mary's CA,1113,Arizona St,1
+1388,St Mary's CA,1305,Nevada,0
+1433,VCU,1388,St Mary's CA,0
+1388,St Mary's CA,1233,Iona,1
+1388,St Mary's CA,1213,Grand Canyon,1
+1421,UNC Asheville,1388,St Mary's CA,1
+1388,St Mary's CA,1224,Howard,1
+1395,TCU,1395,TCU,0
+1395,TCU,1321,Northwestern,1
+1395,TCU,1116,Arkansas,1
+1395,TCU,1228,Illinois,1
+1395,TCU,1129,Boise St,1
+1395,TCU,1113,Arizona St,1
+1395,TCU,1305,Nevada,0
+1433,VCU,1395,TCU,0
+1395,TCU,1233,Iona,1
+1395,TCU,1213,Grand Canyon,1
+1421,UNC Asheville,1395,TCU,0
+1395,TCU,1224,Howard,1
+1321,Northwestern,1321,Northwestern,1
+1321,Northwestern,1116,Arkansas,1
+1321,Northwestern,1228,Illinois,1
+1321,Northwestern,1129,Boise St,1
+1321,Northwestern,1113,Arizona St,1
+1321,Northwestern,1305,Nevada,0
+1433,VCU,1321,Northwestern,1
+1321,Northwestern,1233,Iona,1
+1321,Northwestern,1213,Grand Canyon,1
+1421,UNC Asheville,1321,Northwestern,1
+1321,Northwestern,1224,Howard,1
+1116,Arkansas,1116,Arkansas,1
+1228,Illinois,1116,Arkansas,0
+1129,Boise St,1116,Arkansas,1
+1116,Arkansas,1113,Arizona St,1
+1305,Nevada,1116,Arkansas,1
+1433,VCU,1116,Arkansas,1
+1233,Iona,1116,Arkansas,0
+1213,Grand Canyon,1116,Arkansas,0
+1421,UNC Asheville,1116,Arkansas,1
+1224,Howard,1116,Arkansas,0
+1228,Illinois,1228,Illinois,1
+1228,Illinois,1129,Boise St,1
+1228,Illinois,1113,Arizona St,1
+1305,Nevada,1228,Illinois,1
+1433,VCU,1228,Illinois,1
+1233,Iona,1228,Illinois,0
+1228,Illinois,1213,Grand Canyon,1
+1421,UNC Asheville,1228,Illinois,1
+1228,Illinois,1224,Howard,0
+1129,Boise St,1129,Boise St,1
+1129,Boise St,1113,Arizona St,1
+1305,Nevada,1129,Boise St,1
+1433,VCU,1129,Boise St,1
+1233,Iona,1129,Boise St,1
+1213,Grand Canyon,1129,Boise St,1
+1421,UNC Asheville,1129,Boise St,1
+1224,Howard,1129,Boise St,0
+1113,Arizona St,1113,Arizona St,1
+1305,Nevada,1113,Arizona St,1
+1433,VCU,1113,Arizona St,1
+1233,Iona,1113,Arizona St,1
+1213,Grand Canyon,1113,Arizona St,1
+1421,UNC Asheville,1113,Arizona St,1
+1224,Howard,1113,Arizona St,0
+1305,Nevada,1305,Nevada,0
+1433,VCU,1305,Nevada,0
+1305,Nevada,1233,Iona,1
+1305,Nevada,1213,Grand Canyon,1
+1421,UNC Asheville,1305,Nevada,1
+1305,Nevada,1224,Howard,1
+1433,VCU,1433,VCU,0
+1433,VCU,1233,Iona,0
+1433,VCU,1213,Grand Canyon,1
+1433,VCU,1421,UNC Asheville,1
+1433,VCU,1224,Howard,0
+1233,Iona,1233,Iona,0
+1233,Iona,1213,Grand Canyon,1
+1421,UNC Asheville,1233,Iona,1
+1233,Iona,1224,Howard,0
+1213,Grand Canyon,1213,Grand Canyon,1
+1421,UNC Asheville,1213,Grand Canyon,1
+1224,Howard,1213,Grand Canyon,0
+1421,UNC Asheville,1421,UNC Asheville,1
+1421,UNC Asheville,1224,Howard,1
+1224,Howard,1224,Howard,0
