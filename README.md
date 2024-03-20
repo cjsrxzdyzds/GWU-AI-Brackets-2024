@@ -1,4 +1,6 @@
-# Jiaye(Oscar) Fang
+# Team Name: Cool
+# Team Member: Jiaye(Oscar) Fang
+# oscar.fang@gwu.edu
 # George Washington University
 # Data Analytics
 # GWU-AI-Brackets-2024
