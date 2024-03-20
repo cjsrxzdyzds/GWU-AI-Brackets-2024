@@ -1,3 +1,6 @@
+# Jiaye(Oscar) Fang
+# George Washington University
+# Data Analytics
 # GWU-AI-Brackets-2024
 # NCAA Basketball Score Prediction Model
 
