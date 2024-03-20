@@ -119,6 +119,9 @@ The model is trained using the Adam optimizer with a learning rate scheduler. Th
 The project provides the following function:
 
 - `find_match_winner(team_pairs_df, team_a, team_b)`: Finds the winner of a match between two specified teams based on the predicted results.
+```
+find_match_winner(team_pairs_df, "Alabama", "Charleston")
+```
 
 ## Results
 
