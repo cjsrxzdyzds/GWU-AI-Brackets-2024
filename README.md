@@ -24,7 +24,10 @@ This project aims to predict the winners of matches in the NCAA March Madness to
 ## Installation
 
 To install the required packages, run the following command:
-## pip install -r requirements.txt
+
+"""
+pip install -r requirements.txt
+"""
 
 Make sure you have Python 3.x installed on your system.
 
@@ -32,7 +35,9 @@ Make sure you have Python 3.x installed on your system.
 
 1. Clone the repository:
    
-## git clone https://github.com/your-username/ncaa-bracket-predictor.git
+"""
+git clone https://github.com/your-username/ncaa-bracket-predictor.git
+"""
 
 2. Install the required packages as mentioned in the [Installation](#installation) section.
 
