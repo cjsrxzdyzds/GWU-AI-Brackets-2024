@@ -1,8 +1,7 @@
 # Team Name: Cool
-# Team Member: Jiaye(Oscar) Fang
-# oscar.fang@gwu.edu
-# George Washington University
-# Data Analytics
+# Team Member: Jiaye(Oscar) Fang G42568236 oscar.fang@gwu.edu
+# George Washington University, Master of Data Analytics
+
 # GWU-AI-Brackets-2024
 # NCAA Basketball Score Prediction Model
 
@@ -25,7 +24,7 @@ This project aims to predict the winners of matches in the NCAA March Madness to
 ## Installation
 
 To install the required packages, run the following command:
-   pip install -r requirements.txt
+## pip install -r requirements.txt
 
 Make sure you have Python 3.x installed on your system.
 
@@ -33,7 +32,7 @@ Make sure you have Python 3.x installed on your system.
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/ncaa-bracket-predictor.git
+## git clone https://github.com/your-username/ncaa-bracket-predictor.git
 
 2. Install the required packages as mentioned in the [Installation](#installation) section.
 
@@ -58,23 +57,6 @@ The project uses a neural network model implemented with TensorFlow and Keras. T
 
 The model is trained on historical game data, using team rankings and other features to predict the winner of each match.
 
-## Functions
-
-The project provides the following function:
-
-- `find_match_winner(team_pairs_df, team_a, team_b)`: Finds the winner of a match between two specified teams based on the predicted results.
-
-## Results
-
-The trained model achieves an accuracy of around 66% in predicting the winners of matches.
-
-The predicted results are saved in the `predictions.csv` and `predictions(name).csv` files.
-
-## Contributing
-
-Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
 ## Model Architecture
 
 The model uses the following architecture:
@@ -84,7 +66,6 @@ The model uses the following architecture:
 - Flattening and concatenation of the embedding layers
 - Dense layers with ReLU activation and dropout regularization
 - Output layer with linear activation to predict the score difference
-
 
 # NCAA Basketball Prediction Model
 
@@ -124,14 +105,25 @@ After reviewing the sample model provided, I have identified several key differe
 
 In summary, my model shares some similarities with the sample model but differs in terms of architecture simplicity, preprocessing steps, hyperparameter settings, training duration, evaluation metrics, and model saving format. I acknowledge that the performance and effectiveness of my model may vary compared to the sample model, and I am open to experimenting with different approaches to further improve my model's predictive capabilities.
 
-I hope this comparison provides a clear understanding of the differences between my model and the sample model. If you have any further questions or suggestions, please feel free to reach out.
-
-
 ## Training
 
 The model is trained using the Adam optimizer with a learning rate scheduler. The loss function used is mean squared error (MSE), and the model's performance is evaluated using mean absolute error (MAE).
 
+## Functions
 
+The project provides the following function:
+
+- `find_match_winner(team_pairs_df, team_a, team_b)`: Finds the winner of a match between two specified teams based on the predicted results.
+
+## Results
+
+The trained model achieves an accuracy of around 66% in predicting the winners of matches.
+
+The predicted results are saved in the `predictions.csv` and `predictions(name).csv` files.
+
+## Contributing
+
+Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Future Improvements
 
