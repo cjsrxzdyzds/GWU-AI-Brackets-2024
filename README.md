@@ -58,10 +58,6 @@ In summary, my model shares some similarities with the sample model but differs 
 
 I hope this comparison provides a clear understanding of the differences between my model and the sample model. If you have any further questions or suggestions, please feel free to reach out.
 
-team_a─►a_embed│
-               ├─►concat_embed─►dense─►score_diff
-team_b─►b_embed│
-
 
 ## Training
 
