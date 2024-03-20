@@ -8,6 +8,74 @@
 
 This project aims to predict the score difference between two teams in an NCAA basketball game using a neural network model with embedding layers. The model is trained on historical game data and can be used to generate predictions for future matchups.
 
+# NCAA March Madness Bracket Predictor
+
+This project aims to predict the winners of matches in the NCAA March Madness tournament using a machine learning model. The model is trained on historical game data and uses team rankings and other features to make predictions.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data](#data)
+- [Model](#model)
+- [Functions](#functions)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To install the required packages, run the following command:
+pip install -r requirements.txt
+
+Make sure you have Python 3.x installed on your system.
+
+## Usage
+
+1. Clone the repository:
+   
+git clone https://github.com/your-username/ncaa-bracket-predictor.git
+
+2. Install the required packages as mentioned in the [Installation](#installation) section.
+
+3. Run the Jupyter Notebook or Python script to train the model and generate predictions.
+
+4. Use the provided functions to find the winner of a specific match between two teams.
+
+## Data
+
+The project uses the following datasets:
+
+- `MRegularSeasonCompactResults.csv`: Historical game data for regular season matches.
+- `MTeams.csv`: Information about the teams participating in the tournament.
+
+The datasets are stored in the `/kaggle/input/` directory.
+
+## Model
+
+The project uses a neural network model implemented with TensorFlow and Keras. The model architecture consists of embedding layers for team representations, followed by dense layers and dropout for regularization.
+
+The model is trained on historical game data, using team rankings and other features to predict the winner of each match.
+
+## Functions
+
+The project provides the following function:
+
+- `find_match_winner(team_pairs_df, team_a, team_b)`: Finds the winner of a match between two specified teams based on the predicted results.
+
+## Results
+
+The trained model achieves an accuracy of around 66% in predicting the winners of matches.
+
+The predicted results are saved in the `predictions.csv` and `predictions(name).csv` files.
+
+## Contributing
+
+Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Dataset
 
 The model is trained on data from the `MRegularSeasonCompactResults.csv` file, which contains historical game results. The data is preprocessed to create team pairings and calculate the score difference for each game.
