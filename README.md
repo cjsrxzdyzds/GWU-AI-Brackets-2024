@@ -43,6 +43,8 @@ git clone https://github.com/your-username/ncaa-bracket-predictor.git
 
 ## Data
 
+The model is trained on data from the `MRegularSeasonCompactResults.csv` file, which contains historical game results. The data is preprocessed to create team pairings and calculate the score difference for each game.
+
 The project uses the following datasets:
 
 - `MRegularSeasonCompactResults.csv`: Historical game data for regular season matches.
@@ -72,13 +74,6 @@ The predicted results are saved in the `predictions.csv` and `predictions(name).
 
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Dataset
-
-The model is trained on data from the `MRegularSeasonCompactResults.csv` file, which contains historical game results. The data is preprocessed to create team pairings and calculate the score difference for each game.
 
 ## Model Architecture
 
@@ -136,17 +131,7 @@ I hope this comparison provides a clear understanding of the differences between
 
 The model is trained using the Adam optimizer with a learning rate scheduler. The loss function used is mean squared error (MSE), and the model's performance is evaluated using mean absolute error (MAE).
 
-## Usage
 
-1. Ensure that you have the required dependencies installed (tensorflow, pandas, numpy, scikit-learn).
-2. Prepare your dataset in the same format as `MRegularSeasonCompactResults.csv`.
-3. Update the `curr_year` variable in the code to specify the year you want to use for training and predictions.
-4. Run the script to train the model and generate predictions.
-5. The trained model will be saved in the `bracket_model` directory, and the predictions will be saved in the `predictions.csv` file.
-
-## Results
-
-The model's accuracy is calculated based on the percentage of correctly predicted game outcomes (win or loss) on the test set. The accuracy is printed at the end of the script.
 
 ## Future Improvements
 
