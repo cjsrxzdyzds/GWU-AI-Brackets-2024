@@ -1,8 +1,3 @@
-# Team Name: Cool
-# Team Member: Jiaye(Oscar) Fang, G42568236, oscar.fang@gwu.edu
-# George Washington University, Master of Data Analytics
-
-# GWU-AI-Brackets-2024
 # NCAA Basketball Score Prediction Model
 
 This project aims to predict the score difference between two teams in an NCAA basketball game using a neural network model with embedding layers. The model is trained on historical game data and can be used to generate predictions for future matchups.
